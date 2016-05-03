@@ -12,5 +12,5 @@ install.packages(c('shiny', 'dygraphs', 'dplyr', 'tidyr', 'xts', 'RColorBrewer')
 
 You can run this visualization in 'R' with:
 ```
-shiny::runGitHub('stevenwong15/Statistics_Canada', subdir = 'GDP')
+shiny::runGitHub('stevenwong15/Projects', subdir = '/Visualizations/Canada_GDP')
 ```

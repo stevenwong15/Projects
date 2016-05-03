@@ -1,5 +1,29 @@
-# Statistics Canada
+## Visualizations
 
-**GDP:** Gross domestic product (GDP) at basic prices, by North American Industry Classification System (NAICS)
+For a lightweight visual tool I built (while leanring R's Shiny), check out [Canada_GDP](https://github.com/stevenwong15/Projects/tree/master/Visualizations/Canada_GDP). Contributions to Canada's GDP can be classified into 20 broad industry classes, each with a number of subclasses. The goal of the visual tool is to help compare the percent contribution to GDP between classes and subclasses.
 
-Visit [Statistics Canada](http://www.statcan.gc.ca/start-debut-eng.html) for more datasets on Canada.
+A goal of mine is to learn how to make better graphics to help visual discovery, and story telling. The following is a growing list of visuals, which I draw inspirations, and hopefully learn from. More to come ...
+
+### Graphs/Charts
+
+* [A Complete Catalog Of Every Time Someone Cursed Or Bled Out In A Quentin Tarantino Movie](http://fivethirtyeight.com/features/complete-catalog-curses-deaths-quentin-tarantino-films/) (FiveThirtyEight)
+* [Analyzing 1.1 Billion NYC Taxi and Uber Trips, with a Vengeance](http://toddwschneider.com/posts/analyzing-1-1-billion-nyc-taxi-and-uber-trips-with-a-vengeance/) (Todd W. Schneider)
+* [Edward Tufte](http://www.edwardtufte.com/tufte/)
+
+### Interactive Graphs/Charts
+
+* [How Much Warmer Was Your City in 2015?](http://www.nytimes.com/interactive/2016/02/19/us/2015-year-in-weather-temperature-precipitation.html#palo-alto_ca) (New York Times)
+* [NYC Taxis: A Day in the Life](http://nyctaxi.herokuapp.com/) (Chris Whong)
+-deaths-quentin-tarantino-films/) (FiveThirtyEight)
+* [Gapminder](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen?language=en) (Hans Rosling)
+* [A 3-D View of a Chart That Predicts The Economic Future: The Yield Curve](http://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html?action=click&contentCollection=The%20Upshot&region=Footer&module=WhatsNext&version=WhatsNext&contentID=WhatsNext&moduleDetail=undefined&pgtype=Multimedia) (New York Times)
+* [A Visual Intro to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) (R2D3)
+
+### Visual/Audio/Video Story Telling
+
+* [Greenland Is Melting Away](http://www.nytimes.com/interactive/2015/10/27/world/greenland-is-melting-away.html) (New York Times)
+* [Dear Architects: Sound Matters](http://www.nytimes.com/interactive/2015/12/29/arts/design/sound-architecture.html) (New York Times)
+* [MarI/O - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44) (SethBling)
+* [You Draw It: How Family Income Predicts Children’s College Chances](http://www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how-family-income-affects-childrens-college-chances.html) (New York Times)
+* [MarI/O - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44)
+* [Joel & Ethan Coen - Shot | Reverse Shot](https://www.youtube.com/watch?v=5UE3jz_O_EM) (Every Frame a Painting)
