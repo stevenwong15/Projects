@@ -25,5 +25,4 @@ A goal of mine is to learn how to make better graphics to help visual discovery,
 * [Dear Architects: Sound Matters](http://www.nytimes.com/interactive/2015/12/29/arts/design/sound-architecture.html) (New York Times)
 * [MarI/O - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44) (SethBling)
 * [You Draw It: How Family Income Predicts Children’s College Chances](http://www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how-family-income-affects-childrens-college-chances.html) (New York Times)
-* [MarI/O - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44)
 * [Joel & Ethan Coen - Shot | Reverse Shot](https://www.youtube.com/watch?v=5UE3jz_O_EM) (Every Frame a Painting)
