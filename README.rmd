@@ -1,0 +1,50 @@
+## Projects
+
+Below is a list of materials I've worked on / am working on. A goal of mine is to be very good at drawing valid insights from data, so more to come ...
+
+### Independent Coursework
+
+##### In Progress
+
+* [Data Analysis Using Regression and Multilevel/Hierarchical Models](http://www.stat.columbia.edu/~gelman/arm/) (Gelman,  Hill)
+* continuously playing round with real data
+
+##### Probability/Statistics/etc.
+
+* [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) (Stanford OpenEdx)
+* [A/B Testing](https://www.udacity.com/course/ab-testing--ud257) (Udacity)
+* [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) (Udacity)
+* [Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm) (MIT OpenCourseWare)
+
+##### Coding
+
+* [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170) (NumPy & Pandas) (Udacity)
+* [Python](https://www.codecademy.com/learn/python) (Codecademy)
+* [Command Line](https://www.codecademy.com/learn/learn-the-command-line) (Codecademy)
+* [Git](https://www.codecademy.com/learn/learn-git) (Codecademy)
+* [SQL](http://www.w3schools.com/sql/) (w3schools)
+
+### Relevant Courses in Grad School (Stanford)
+
+* Machine Learning (CS 229) - [Project](https://github.com/stevenwong15/Projects/blob/master/Reports/CS229_Machine_Learning.pdf) 
+* Stochastic Modeling (MS&E 221)
+* Advanced Statistical Methods for Earth System Analysis (EESS 260) - [Project](https://github.com/stevenwong15/Projects/blob/master/Reports/EESS260_Statistical_Methods_for_Earth_System_Analysis.pdf)
+* Probabilistic Models in Civil Engineering (CEE 203)
+* Bayesian Inference (MKTG 646) - [Project](https://github.com/stevenwong15/Projects/blob/master/Reports/MKTG646_Bayesian_Methods.pdf)
+* Random Vibrations (CEE 289) - [Project](https://github.com/stevenwong15/Projects/blob/master/Reports/CEE289_Random_Vibrations.pdf) 
+* Geostatistics and Modeling of Spatial Uncertainty (EESS 214) - [Project](https://github.com/stevenwong15/Projects/blob/master/Reports/EESS214_Geostatistics.pdf) 
+* Structural Reliability (CEE 204) - [Project](https://github.com/stevenwong15/Projects/blob/master/Reports/CEE204_Structural_Reliability.pdf) 
+* Earthquake Hazard and Risk Analysis (CEE 288) - [Project](https://github.com/stevenwong15/Projects/blob/master/Reports/CEE288_Earthquake_Risk_And_Hazard.pdf) 
+* Decision Analysis for Civil and Environmental Engineers (CEE 206) - [Project](https://github.com/stevenwong15/Projects/blob/master/Reports/CEE206_Decision_Analysis.pdf)
+
+### Resources
+
+* [The Data Science Handbook](http://www.thedatasciencehandbook.com/) (Shan, Wang, Chen, Song)
+* [Data Scientist at Work](http://www.amazon.com/Data-Scientists-Work-Sebastian-Gutierrez/dp/1430265981) (Gutierrez)
+* [R Cheatsheets](https://www.rstudio.com/resources/cheatsheets/) (RStudio)
+* [R Graphics Cookbook](http://www.amazon.com/R-Graphics-Cookbook-Winston-Chang/dp/1449316956) (Chang)
+* [R Style Guide](https://google.github.io/styleguide/Rguide.xml) (Google)
+* [New York R Conference](http://www.rstats.nyc/2015)
+* [Quora](https://www.quora.com/topic/Data-Science/faq)
+* [Airbnb's Data Blog](http://nerds.airbnb.com/data/)
+* [Segment's Analytics Academy](https://segment.com/academy/)
