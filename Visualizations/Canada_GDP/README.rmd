@@ -1,0 +1,16 @@
+# Statistics Canada
+
+## Gross domestic product (GDP) at basic prices, by North American Industry Classification System (NAICS)
+
+Data from [Statistics Canada's Table 379-0031](http://www5.statcan.gc.ca/cansim/a26?lang=eng&retrLang=eng&id=3790031&paSer=&pattern=&stByVal=1&p1=1&p2=-1&tabMode=dataTable&csid=), downloaded on 2016-02-12.
+
+To run the visualization in 'R', you'll need the latest [shiny](http://shiny.rstudio.com/), [dygraphs](http://dygraphs.com/), [dplyr](https://github.com/hadley/dplyr), [tidyr](https://cran.r-project.org/web/packages/tidyr/index.html), [xts](https://cran.r-project.org/web/packages/xts/index.html), and [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/index.html).
+
+```
+install.packages(c('shiny', 'dygraphs', 'dplyr', 'tidyr', 'xts', 'RColorBrewer'))
+```
+
+You can run this visualization in 'R' with:
+```
+shiny::runGitHub('stevenwong15/Statistics_Canada', subdir = 'GDP')
+```
