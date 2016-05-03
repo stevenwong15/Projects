@@ -1,8 +1,8 @@
 ## Visualizations
 
-For a lightweight visual tool I built (while leanring R's Shiny), check out [Canada_GDP](https://github.com/stevenwong15/Projects/tree/master/Visualizations/Canada_GDP). Contributions to Canada's GDP can be classified into 20 broad industry classes, each with a number of subclasses. The goal of the visual tool is to help compare the percent contribution to GDP between classes and subclasses.
+For a lightweight visual tool I built (while leanring R's Shiny), check out [Canada_GDP](https://github.com/stevenwong15/Projects/tree/master/Visualizations/Canada_GDP). Contributions to Canada's GDP can be classified into 20 broad industry classes, each with a number of subclasses. The purpose of the visual tool is to compare the percent contribution to GDP between classes and subclasses.
 
-A goal of mine is to learn how to make better graphics to help visual discovery, and story telling. The following is a growing list of visuals, which I draw inspirations, and hopefully learn from. More to come ...
+A goal of mine is to learn how to make better graphics to help visual discovery, and story telling. The following is a growing list of visuals, from which I draw inspirations, and hopefully can learn. More to come ...
 
 ### Graphs/Charts
 
