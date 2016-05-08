@@ -12,6 +12,7 @@ A goal of mine is to learn how to make better graphics to help visual discovery,
 
 ### Interactive Graphs/Charts
 
+* [Shipmap.org](https://www.shipmap.org/)
 * [How Much Warmer Was Your City in 2015?](http://www.nytimes.com/interactive/2016/02/19/us/2015-year-in-weather-temperature-precipitation.html#palo-alto_ca) (New York Times)
 * [NYC Taxis: A Day in the Life](http://nyctaxi.herokuapp.com/) (Chris Whong)
 -deaths-quentin-tarantino-films/) (FiveThirtyEight)
