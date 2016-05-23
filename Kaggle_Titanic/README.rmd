@@ -1,0 +1,31 @@
+## Project - Kaggle's [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
+
+I'm leveraging Kaggle's Titanic dataset as one way to put into practice the various statistical/machine learning models I've been learning. After some data cleaning, imputation, and feature engineering ([`code/c_Titanic.R`][8]), I find Random Forest to work the best for this dataset. 
+
+With `5` features and `5000` draws, Random Forest is getting `0.80861` on 50% of the test data (look for `stevenwong15` on [Kaggle's Leaderboard](https://www.kaggle.com/c/titanic/leaderboard)).
+
+I'm adding my take on why certain models work better for this dataset, so more commentaries to come ... For now, here are the results from 10-fold CV of various models:
+
+model | mean correct | sd
+-----|-----|-----
+[Random Forest][1] (p=5, n=5000) | 0.8377555 | 0.03733253
+[SVM][2] (Radial Kernel) | 0.8323749 | 0.03850631
+[Tree][3] | 0.81677 | 0.03349116
+[Logistic Regression][4] (Lasso, Lamda.min) | 0.8143339 | 0.03344622
+[Logistic Regression][4] (Ridge, Lamda.min) | 0.8123576 | 0.03672668
+[Boosting][5] (n=2500, max_dept=10) | 0.8122322 | 0.03141148
+[Logistic Regression][4] | 0.8100215 | 0.03874766
+[Linear Discriminant Analysis][6] | 0.8010476 | 0.04676903
+[Naïve Bayes][7] (Laplace = 0) | 0.7976819 | 0.04485892
+
+To run the scripts: install the libraries in [`code/starter/project_library.R`][9], and change line 6 `setwd('~/Desktop/Analytics/Titanic')` to your current directory.
+
+[1]: https://github.com/stevenwong15/Projects/blob/master/Kaggle_Titanic/code/m_random_forest.R
+[2]: https://github.com/stevenwong15/Projects/blob/master/Kaggle_Titanic/code/m_SVM.R
+[3]: https://github.com/stevenwong15/Projects/blob/master/Kaggle_Titanic/code/m_tree.R
+[4]: https://github.com/stevenwong15/Projects/blob/master/Kaggle_Titanic/code/m_logistic_regression.R
+[5]: https://github.com/stevenwong15/Projects/blob/master/Kaggle_Titanic/code/m_boosting.R
+[6]: https://github.com/stevenwong15/Projects/blob/master/Kaggle_Titanic/code/m_linear_discriminant_analysis.R
+[7]: https://github.com/stevenwong15/Projects/blob/master/Kaggle_Titanic/code/m_naive_bayes.R
+[8]: https://github.com/stevenwong15/Projects/blob/master/Kaggle_Titanic/code/c_Titanic.R
+[9]: https://github.com/stevenwong15/Projects/blob/master/Kaggle_Titanic/code/starter/project_library.R
