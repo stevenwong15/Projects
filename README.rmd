@@ -7,7 +7,7 @@ Below is a list of materials I've worked on / am working on. The goal is to beco
 ##### In Progress
 
 * [Data Analysis Using Regression and Multilevel/Hierarchical Models](http://www.stat.columbia.edu/~gelman/arm/) (Gelman,  Hill)
-* continuously playing round with real data, examples: 
+* continuously playing round with real data; some examples (that can be shown publicly): 
 	+ [Kaggle's Titanic: Machine Learning from Disaster](https://github.com/stevenwong15/Projects/tree/master/Kaggle_Titanic)
 	+ [Visualizing Canada's GDP](https://github.com/stevenwong15/Projects/tree/master/Visualizations/Canada_GDP)
 
