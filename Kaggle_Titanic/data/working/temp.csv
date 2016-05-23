@@ -1,0 +1,1310 @@
+PassengerId,Survived,Pclass,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,dataset,LastName,Title,Ticket_A,Ticket_N,Family,n_LastName,n_Ticket_N
+1,0,3,male,22,1,0,A/5 21171,7.25,-1,S,train,Braund,Mr,A,5,1,2,28
+2,1,1,female,38,1,0,PC 17599,71.2833,C,C,train,Cumings,Mrs,PC,17599,1,2,2
+3,1,3,female,26,0,0,STON/O2. 3101282,7.925,-1,S,train,Heikkinen,Miss,STONO,2,0,1,27
+4,1,1,female,35,1,0,113803,53.1,C,S,train,Futrelle,Mrs,,113803,1,2,2
+5,0,3,male,35,0,0,373450,8.05,-1,S,train,Allen,Mr,,373450,0,1,1
+6,0,3,male,-1,0,0,330877,8.4583,-1,Q,train,Moran,Mr,,330877,0,1,1
+7,0,1,male,54,0,0,17463,51.8625,E,S,train,McCarthy,Mr,,17463,0,1,2
+8,0,3,male,2,3,1,349909,21.075,-1,S,train,Palsson,Master,,349909,1,5,5
+9,1,3,female,27,0,2,347742,11.1333,-1,S,train,Johnson,Mrs,,347742,1,3,3
+10,1,2,female,14,1,0,237736,30.0708,-1,C,train,Nasser,Mrs,,237736,1,2,2
+11,1,3,female,4,1,1,PP 9549,16.7,G,S,train,Sandstrom,Miss,PP,9549,1,3,3
+12,1,1,female,58,0,0,113783,26.55,C,S,train,Bonnell,Miss,,113783,0,2,1
+13,0,3,male,20,0,0,A/5. 2151,8.05,-1,S,train,Saundercock,Mr,A,5,0,1,28
+14,0,3,male,39,1,5,347082,31.275,-1,S,train,Andersson,Mr,,347082,1,9,7
+15,0,3,female,14,0,0,350406,7.8542,-1,S,train,Vestrom,Miss,,350406,0,1,1
+16,1,2,female,55,0,0,248706,16,-1,S,train,Hewlett,Mrs,,248706,0,1,1
+17,0,3,male,2,4,1,382652,29.125,-1,Q,train,Rice,Master,,382652,1,6,6
+18,1,2,male,-1,0,0,244373,13,-1,S,train,Williams,Mr,,244373,0,1,1
+19,0,3,female,31,1,0,345763,18,-1,S,train,Vander Planke,Mrs,,345763,1,4,2
+20,1,3,female,-1,0,0,2649,7.225,-1,C,train,Masselmani,Mrs,,2649,0,1,1
+21,0,2,male,35,0,0,239865,26,-1,S,train,Fynney,Mr,,239865,0,1,2
+22,1,2,male,34,0,0,248698,13,D,S,train,Beesley,Mr,,248698,0,1,1
+23,1,3,female,15,0,0,330923,8.0292,-1,Q,train,McGowan,Miss,,330923,0,2,1
+24,1,1,male,28,0,0,113788,35.5,A,S,train,Sloper,Mr,,113788,0,1,1
+25,0,3,female,8,3,1,349909,21.075,-1,S,train,Palsson,Miss,,349909,1,5,5
+26,1,3,female,38,1,5,347077,31.3875,-1,S,train,Asplund,Mrs,,347077,1,7,7
+27,0,3,male,-1,0,0,2631,7.225,-1,C,train,Emir,Mr,,2631,0,1,1
+28,0,1,male,19,3,2,19950,263,C,S,train,Fortune,Mr,,19950,1,6,6
+29,1,3,female,-1,0,0,330959,7.8792,-1,Q,train,O'Dwyer,Miss,,330959,0,1,1
+30,0,3,male,-1,0,0,349216,7.8958,-1,S,train,Todoroff,Mr,,349216,0,1,1
+31,0,1,male,40,0,0,PC 17601,27.7208,-1,C,train,Uruchurtu,Don,PC,17601,0,1,1
+32,1,1,female,-1,1,0,PC 17569,146.5208,B,C,train,Spencer,Mrs,PC,17569,1,2,3
+33,1,3,female,-1,0,0,335677,7.75,-1,Q,train,Glynn,Miss,,335677,0,1,1
+34,0,2,male,66,0,0,C.A. 24579,10.5,-1,S,train,Wheadon,Mr,CA,24579,0,1,1
+35,0,1,male,28,1,0,PC 17604,82.1708,-1,C,train,Meyer,Mr,PC,17604,1,2,2
+36,0,1,male,42,1,0,113789,52,-1,S,train,Holverson,Mr,,113789,1,2,2
+37,1,3,male,-1,0,0,2677,7.2292,-1,C,train,Mamee,Mr,,2677,0,1,1
+38,0,3,male,21,0,0,A./5. 2152,8.05,-1,S,train,Cann,Mr,A,5,0,1,28
+39,0,3,female,18,2,0,345764,18,-1,S,train,Vander Planke,Miss,,345764,1,4,2
+40,1,3,female,14,1,0,2651,11.2417,-1,C,train,Nicola-Yarred,Miss,,2651,1,2,2
+41,0,3,female,40,1,0,7546,9.475,-1,S,train,Ahlin,Mrs,,7546,1,1,1
+42,0,2,female,27,1,0,11668,21,-1,S,train,Turpin,Mrs,,11668,1,2,2
+43,0,3,male,-1,0,0,349253,7.8958,-1,C,train,Kraeff,Mr,,349253,0,1,1
+44,1,2,female,3,1,2,SC/Paris 2123,41.5792,-1,C,train,Laroche,Miss,SCParis,2123,1,4,4
+45,1,3,female,19,0,0,330958,7.8792,-1,Q,train,Devaney,Miss,,330958,0,1,1
+46,0,3,male,-1,0,0,S.C./A.4. 23567,8.05,-1,S,train,Rogers,Mr,SCA,4,0,1,13
+47,0,3,male,-1,1,0,370371,15.5,-1,Q,train,Lennon,Mr,,370371,1,2,2
+48,1,3,female,-1,0,0,14311,7.75,-1,Q,train,O'Driscoll,Miss,,14311,0,1,1
+49,0,3,male,-1,2,0,2662,21.6792,-1,C,train,Samaan,Mr,,2662,1,3,3
+50,0,3,female,18,1,0,349237,17.8,-1,S,train,Arnold-Franchi,Mrs,,349237,1,2,2
+51,0,3,male,7,4,1,3101295,39.6875,-1,S,train,Panula,Master,,3101295,1,6,7
+52,0,3,male,21,0,0,A/4. 39886,7.8,-1,S,train,Nosworthy,Mr,A,4,0,1,13
+53,1,1,female,49,1,0,PC 17572,76.7292,D,C,train,Harper,Mrs,PC,17572,1,2,3
+54,1,2,female,29,1,0,2926,26,-1,S,train,Faunthorpe,Mrs,,2926,1,2,2
+55,0,1,male,65,0,1,113509,61.9792,B,C,train,Ostby,Mr,,113509,1,2,2
+56,1,1,male,-1,0,0,19947,35.5,C,S,train,Woolner,Mr,,19947,0,1,1
+57,1,2,female,21,0,0,C.A. 31026,10.5,-1,S,train,Rugg,Miss,CA,31026,0,1,1
+58,0,3,male,28.5,0,0,2697,7.2292,-1,C,train,Novel,Mr,,2697,0,1,1
+59,1,2,female,5,1,2,C.A. 34651,27.75,-1,S,train,West,Miss,CA,34651,1,4,4
+60,0,3,male,11,5,2,CA 2144,46.9,-1,S,train,Goodwin,Master,CA,2144,1,8,8
+61,0,3,male,22,0,0,2669,7.2292,-1,C,train,Sirayanian,Mr,,2669,0,1,1
+62,1,1,female,38,0,0,113572,80,B,C,train,Icard,Miss,,113572,0,1,2
+63,0,1,male,45,1,0,36973,83.475,C,S,train,Harris,Mr,,36973,1,2,2
+64,0,3,male,4,3,2,347088,27.9,-1,S,train,Skoog,Master,,347088,1,6,6
+65,0,1,male,-1,0,0,PC 17605,27.7208,-1,C,train,Stewart,Mr,PC,17605,0,1,1
+66,1,3,male,-1,1,1,2661,15.2458,-1,C,train,Moubarek,Master,,2661,1,3,3
+67,1,2,female,29,0,0,C.A. 29395,10.5,F,S,train,Nye,Mrs,CA,29395,0,1,1
+68,0,3,male,19,0,0,S.P. 3464,8.1583,-1,S,train,Crease,Mr,SP,3464,0,1,1
+69,1,3,female,17,4,2,3101281,7.925,-1,S,train,Andersson,Miss,,3101281,1,9,1
+70,0,3,male,26,2,0,315151,8.6625,-1,S,train,Kink,Mr,,315151,1,2,1
+71,0,2,male,32,0,0,C.A. 33111,10.5,-1,S,train,Jenkin,Mr,CA,33111,0,1,1
+72,0,3,female,16,5,2,CA 2144,46.9,-1,S,train,Goodwin,Miss,CA,2144,1,8,8
+73,0,2,male,21,0,0,S.O.C. 14879,73.5,-1,S,train,Hood,Mr,SOC,14879,0,1,7
+74,0,3,male,26,1,0,2680,14.4542,-1,C,train,Chronopoulos,Mr,,2680,1,2,2
+75,1,3,male,32,0,0,1601,56.4958,-1,S,train,Bing,Mr,,1601,0,1,8
+76,0,3,male,25,0,0,348123,7.65,F,S,train,Moen,Mr,,348123,0,1,1
+77,0,3,male,-1,0,0,349208,7.8958,-1,S,train,Staneff,Mr,,349208,0,1,1
+78,0,3,male,-1,0,0,374746,8.05,-1,S,train,Moutal,Mr,,374746,0,1,1
+79,1,2,male,0.83,0,2,248738,29,-1,S,train,Caldwell,Master,,248738,1,3,3
+80,1,3,female,30,0,0,364516,12.475,-1,S,train,Dowdell,Miss,,364516,0,1,2
+81,0,3,male,22,0,0,345767,9,-1,S,train,Waelens,Mr,,345767,0,1,1
+82,1,3,male,29,0,0,345779,9.5,-1,S,train,Sheerlinck,Mr,,345779,0,1,1
+83,1,3,female,-1,0,0,330932,7.7875,-1,Q,train,McDermott,Miss,,330932,0,1,1
+84,0,1,male,28,0,0,113059,47.1,-1,S,train,Carrau,Mr,,113059,0,2,2
+85,1,2,female,17,0,0,SO/C 14885,10.5,-1,S,train,Ilett,Miss,SOC,14885,0,1,1
+86,1,3,female,33,3,0,3101278,15.85,-1,S,train,Backstrom,Mrs,,3101278,1,2,2
+87,0,3,male,16,1,3,W./C. 6608,34.375,-1,S,train,Ford,Mr,WC,6608,1,5,5
+88,0,3,male,-1,0,0,SOTON/OQ 392086,8.05,-1,S,train,Slocovski,Mr,SOTONOQ,392086,0,1,1
+89,1,1,female,23,3,2,19950,263,C,S,train,Fortune,Miss,,19950,1,6,6
+90,0,3,male,24,0,0,343275,8.05,-1,S,train,Celotti,Mr,,343275,0,1,1
+91,0,3,male,29,0,0,343276,8.05,-1,S,train,Christmann,Mr,,343276,0,1,1
+92,0,3,male,20,0,0,347466,7.8542,-1,S,train,Andreasson,Mr,,347466,0,1,1
+93,0,1,male,46,1,0,W.E.P. 5734,61.175,E,S,train,Chaffee,Mr,WEP,5734,1,2,2
+94,0,3,male,26,1,2,C.A. 2315,20.575,-1,S,train,Dean,Mr,CA,2315,1,4,4
+95,0,3,male,59,0,0,364500,7.25,-1,S,train,Coxon,Mr,,364500,0,1,1
+96,0,3,male,-1,0,0,374910,8.05,-1,S,train,Shorney,Mr,,374910,0,1,1
+97,0,1,male,71,0,0,PC 17754,34.6542,A,C,train,Goldschmidt,Mr,PC,17754,0,1,1
+98,1,1,male,23,0,1,PC 17759,63.3583,D,C,train,Greenfield,Mr,PC,17759,1,2,2
+99,1,2,female,34,0,1,231919,23,-1,S,train,Doling,Mrs,,231919,1,2,2
+100,0,2,male,34,1,0,244367,26,-1,S,train,Kantor,Mr,,244367,1,2,2
+101,0,3,female,28,0,0,349245,7.8958,-1,S,train,Petranec,Miss,,349245,0,1,1
+102,0,3,male,-1,0,0,349215,7.8958,-1,S,train,Petroff,Mr,,349215,0,2,1
+103,0,1,male,21,0,1,35281,77.2875,D,S,train,White,Mr,,35281,1,2,2
+104,0,3,male,33,0,0,7540,8.6542,-1,S,train,Johansson,Mr,,7540,0,4,1
+105,0,3,male,37,2,0,3101276,7.925,-1,S,train,Gustafsson,Mr,,3101276,1,2,1
+106,0,3,male,28,0,0,349207,7.8958,-1,S,train,Mionoff,Mr,,349207,0,1,1
+107,1,3,female,21,0,0,343120,7.65,-1,S,train,Salkjelsvik,Miss,,343120,0,1,1
+108,1,3,male,-1,0,0,312991,7.775,-1,S,train,Moss,Mr,,312991,0,1,1
+109,0,3,male,38,0,0,349249,7.8958,-1,S,train,Rekic,Mr,,349249,0,1,1
+110,1,3,female,-1,1,0,371110,24.15,-1,Q,train,Moran,Miss,,371110,1,2,3
+111,0,1,male,47,0,0,110465,52,C,S,train,Porter,Mr,,110465,0,1,2
+112,0,3,female,14.5,1,0,2665,14.4542,-1,C,train,Zabour,Miss,,2665,1,2,2
+113,0,3,male,22,0,0,324669,8.05,-1,S,train,Barton,Mr,,324669,0,1,1
+114,0,3,female,20,1,0,4136,9.825,-1,S,train,Jussila,Miss,,4136,1,2,1
+115,0,3,female,17,0,0,2627,14.4583,-1,C,train,Attalah,Miss,,2627,0,2,2
+116,0,3,male,21,0,0,STON/O 2. 3101294,7.925,-1,S,train,Pekoniemi,Mr,STONO,2,0,1,27
+117,0,3,male,70.5,0,0,370369,7.75,-1,Q,train,Connors,Mr,,370369,0,1,1
+118,0,2,male,29,1,0,11668,21,-1,S,train,Turpin,Mr,,11668,1,2,2
+119,0,1,male,24,0,1,PC 17558,247.5208,B,C,train,Baxter,Mr,PC,17558,1,2,3
+120,0,3,female,2,4,2,347082,31.275,-1,S,train,Andersson,Miss,,347082,1,9,7
+121,0,2,male,21,2,0,S.O.C. 14879,73.5,-1,S,train,Hickman,Mr,SOC,14879,1,3,7
+122,0,3,male,-1,0,0,A4. 54510,8.05,-1,S,train,Moore,Mr,A,4,0,1,13
+123,0,2,male,32.5,1,0,237736,30.0708,-1,C,train,Nasser,Mr,,237736,1,2,2
+124,1,2,female,32.5,0,0,27267,13,E,S,train,Webber,Miss,,27267,0,1,1
+125,0,1,male,54,0,1,35281,77.2875,D,S,train,White,Mr,,35281,1,2,2
+126,1,3,male,12,1,0,2651,11.2417,-1,C,train,Nicola-Yarred,Master,,2651,1,2,2
+127,0,3,male,-1,0,0,370372,7.75,-1,Q,train,McMahon,Mr,,370372,0,1,1
+128,1,3,male,24,0,0,C 17369,7.1417,-1,S,train,Madsen,Mr,C,17369,0,1,1
+129,1,3,female,-1,1,1,2668,22.3583,F,C,train,Peter,Miss,,2668,1,3,3
+130,0,3,male,45,0,0,347061,6.975,-1,S,train,Ekstrom,Mr,,347061,0,1,1
+131,0,3,male,33,0,0,349241,7.8958,-1,C,train,Drazenoic,Mr,,349241,0,1,1
+132,0,3,male,20,0,0,SOTON/O.Q. 3101307,7.05,-1,S,train,Coelho,Mr,SOTONOQ,3101307,0,1,1
+133,0,3,female,47,1,0,A/5. 3337,14.5,-1,S,train,Robins,Mrs,A,5,1,2,28
+134,1,2,female,29,1,0,228414,26,-1,S,train,Weisz,Mrs,,228414,1,2,2
+135,0,2,male,25,0,0,C.A. 29178,13,-1,S,train,Sobey,Mr,CA,29178,0,1,1
+136,0,2,male,23,0,0,SC/PARIS 2133,15.0458,-1,C,train,Richard,Mr,SCPARIS,2133,0,1,1
+137,1,1,female,19,0,2,11752,26.2833,D,S,train,Newsom,Miss,,11752,1,1,1
+138,0,1,male,37,1,0,113803,53.1,C,S,train,Futrelle,Mr,,113803,1,2,2
+139,0,3,male,16,0,0,7534,9.2167,-1,S,train,Osen,Mr,,7534,0,1,2
+140,0,1,male,24,0,0,PC 17593,79.2,B,C,train,Giglio,Mr,PC,17593,0,1,2
+141,0,3,female,-1,0,2,2678,15.2458,-1,C,train,Boulos,Mrs,,2678,1,3,3
+142,1,3,female,22,0,0,347081,7.75,-1,S,train,Nysten,Miss,,347081,0,1,1
+143,1,3,female,24,1,0,STON/O2. 3101279,15.85,-1,S,train,Hakkarainen,Mrs,STONO,2,1,2,27
+144,0,3,male,19,0,0,365222,6.75,-1,Q,train,Burke,Mr,,365222,0,1,1
+145,0,2,male,18,0,0,231945,11.5,-1,S,train,Andrew,Mr,,231945,0,2,1
+146,0,2,male,19,1,1,C.A. 33112,36.75,-1,S,train,Nicholls,Mr,CA,33112,1,1,4
+147,1,3,male,27,0,0,350043,7.7958,-1,S,train,Andersson,Mr,,350043,0,2,1
+148,0,3,female,9,2,2,W./C. 6608,34.375,-1,S,train,Ford,Miss,WC,6608,1,5,5
+149,0,2,male,36.5,0,2,230080,26,F,S,train,Navratil,Mr,,230080,1,3,3
+150,0,2,male,42,0,0,244310,13,-1,S,train,Byles,Rev,,244310,0,1,1
+151,0,2,male,51,0,0,S.O.P. 1166,12.525,-1,S,train,Bateman,Rev,SOP,1166,0,1,1
+152,1,1,female,22,1,0,113776,66.6,C,S,train,Pears,Mrs,,113776,1,2,2
+153,0,3,male,55.5,0,0,A.5. 11206,8.05,-1,S,train,Meo,Mr,A,5,0,1,28
+154,0,3,male,40.5,0,2,A/5. 851,14.5,-1,S,train,van Billiard,Mr,A,5,1,3,28
+155,0,3,male,-1,0,0,Fa 265302,7.3125,-1,S,train,Olsen,Mr,Fa,265302,0,2,1
+156,0,1,male,51,0,1,PC 17597,61.3792,-1,C,train,Williams,Mr,PC,17597,1,2,2
+157,1,3,female,16,0,0,35851,7.7333,-1,Q,train,Gilnagh,Miss,,35851,0,1,1
+158,0,3,male,30,0,0,SOTON/OQ 392090,8.05,-1,S,train,Corn,Mr,SOTONOQ,392090,0,1,1
+159,0,3,male,-1,0,0,315037,8.6625,-1,S,train,Smiljanic,Mr,,315037,0,1,1
+160,0,3,male,-1,8,2,CA. 2343,69.55,-1,S,train,Sage,Master,CA,2343,1,11,11
+161,0,3,male,44,0,1,371362,16.1,-1,S,train,Cribb,Mr,,371362,1,2,2
+162,1,2,female,40,0,0,C.A. 33595,15.75,-1,S,train,Watt,Mrs,CA,33595,0,2,2
+163,0,3,male,26,0,0,347068,7.775,-1,S,train,Bengtsson,Mr,,347068,0,1,1
+164,0,3,male,17,0,0,315093,8.6625,-1,S,train,Calic,Mr,,315093,0,2,1
+165,0,3,male,1,4,1,3101295,39.6875,-1,S,train,Panula,Master,,3101295,1,6,7
+166,1,3,male,9,0,2,363291,20.525,-1,S,train,Goldsmith,Master,,363291,1,3,3
+167,1,1,female,-1,0,1,113505,55,E,S,train,Chibnall,Mrs,,113505,1,1,2
+168,0,3,female,45,1,4,347088,27.9,-1,S,train,Skoog,Mrs,,347088,1,6,6
+169,0,1,male,-1,0,0,PC 17318,25.925,-1,S,train,Baumann,Mr,PC,17318,0,1,1
+170,0,3,male,28,0,0,1601,56.4958,-1,S,train,Ling,Mr,,1601,0,1,8
+171,0,1,male,61,0,0,111240,33.5,B,S,train,Van der hoef,Mr,,111240,0,1,1
+172,0,3,male,4,4,1,382652,29.125,-1,Q,train,Rice,Master,,382652,1,6,6
+173,1,3,female,1,1,1,347742,11.1333,-1,S,train,Johnson,Miss,,347742,1,3,3
+174,0,3,male,21,0,0,STON/O 2. 3101280,7.925,-1,S,train,Sivola,Mr,STONO,2,0,1,27
+175,0,1,male,56,0,0,17764,30.6958,A,C,train,Smith,Mr,,17764,0,1,1
+176,0,3,male,18,1,1,350404,7.8542,-1,S,train,Klasen,Mr,,350404,1,3,1
+177,0,3,male,-1,3,1,4133,25.4667,-1,S,train,Lefebre,Master,,4133,1,5,5
+178,0,1,female,50,0,0,PC 17595,28.7125,C,C,train,Isham,Miss,PC,17595,0,1,1
+179,0,2,male,30,0,0,250653,13,-1,S,train,Hale,Mr,,250653,0,1,1
+180,0,3,male,36,0,0,LINE,0,-1,S,train,Leonard,Mr,LINE,-1,0,1,4
+181,0,3,female,-1,8,2,CA. 2343,69.55,-1,S,train,Sage,Miss,CA,2343,1,11,11
+182,0,2,male,-1,0,0,SC/PARIS 2131,15.05,-1,C,train,Pernot,Mr,SCPARIS,2131,0,1,1
+183,0,3,male,9,4,2,347077,31.3875,-1,S,train,Asplund,Master,,347077,1,7,7
+184,1,2,male,1,2,1,230136,39,F,S,train,Becker,Master,,230136,1,4,4
+185,1,3,female,4,0,2,315153,22.025,-1,S,train,Kink-Heilmann,Miss,,315153,1,3,3
+186,0,1,male,-1,0,0,113767,50,A,S,train,Rood,Mr,,113767,0,1,1
+187,1,3,female,-1,1,0,370365,15.5,-1,Q,train,O'Brien,Mrs,,370365,1,2,2
+188,1,1,male,45,0,0,111428,26.55,-1,S,train,Romaine,Mr,,111428,0,1,1
+189,0,3,male,40,1,1,364849,15.5,-1,Q,train,Bourke,Mr,,364849,1,3,2
+190,0,3,male,36,0,0,349247,7.8958,-1,S,train,Turcin,Mr,,349247,0,1,1
+191,1,2,female,32,0,0,234604,13,-1,S,train,Pinsky,Mrs,,234604,0,1,1
+192,0,2,male,19,0,0,28424,13,-1,S,train,Carbines,Mr,,28424,0,1,1
+193,1,3,female,19,1,0,350046,7.8542,-1,S,train,Andersen-Jensen,Miss,,350046,1,1,1
+194,1,2,male,3,1,1,230080,26,F,S,train,Navratil,Master,,230080,1,3,3
+195,1,1,female,44,0,0,PC 17610,27.7208,B,C,train,Brown,Mrs,PC,17610,0,1,1
+196,1,1,female,58,0,0,PC 17569,146.5208,B,C,train,Lurette,Miss,PC,17569,0,1,3
+197,0,3,male,-1,0,0,368703,7.75,-1,Q,train,Mernagh,Mr,,368703,0,1,1
+198,0,3,male,42,0,1,4579,8.4042,-1,S,train,Olsen,Mr,,4579,1,2,1
+199,1,3,female,-1,0,0,370370,7.75,-1,Q,train,Madigan,Miss,,370370,0,1,1
+200,0,2,female,24,0,0,248747,13,-1,S,train,Yrois,Miss,,248747,0,1,1
+201,0,3,male,28,0,0,345770,9.5,-1,S,train,Vande Walle,Mr,,345770,0,1,1
+202,0,3,male,-1,8,2,CA. 2343,69.55,-1,S,train,Sage,Mr,CA,2343,1,11,11
+203,0,3,male,34,0,0,3101264,6.4958,-1,S,train,Johanson,Mr,,3101264,0,1,1
+204,0,3,male,45.5,0,0,2628,7.225,-1,C,train,Youseff,Mr,,2628,0,1,1
+205,1,3,male,18,0,0,A/5 3540,8.05,-1,S,train,Cohen,Mr,A,5,0,1,28
+206,0,3,female,2,0,1,347054,10.4625,G,S,train,Strom,Miss,,347054,1,2,2
+207,0,3,male,32,1,0,3101278,15.85,-1,S,train,Backstrom,Mr,,3101278,1,2,2
+208,1,3,male,26,0,0,2699,18.7875,-1,C,train,Albimona,Mr,,2699,0,1,2
+209,1,3,female,16,0,0,367231,7.75,-1,Q,train,Carr,Miss,,367231,0,2,1
+210,1,1,male,40,0,0,112277,31,A,C,train,Blank,Mr,,112277,0,1,1
+211,0,3,male,24,0,0,SOTON/O.Q. 3101311,7.05,-1,S,train,Ali,Mr,SOTONOQ,3101311,0,2,1
+212,1,2,female,35,0,0,F.C.C. 13528,21,-1,S,train,Cameron,Miss,FCC,13528,0,1,2
+213,0,3,male,22,0,0,A/5 21174,7.25,-1,S,train,Perkin,Mr,A,5,0,1,28
+214,0,2,male,30,0,0,250646,13,-1,S,train,Givard,Mr,,250646,0,1,1
+215,0,3,male,-1,1,0,367229,7.75,-1,Q,train,Kiernan,Mr,,367229,1,2,1
+216,1,1,female,31,1,0,35273,113.275,D,C,train,Newell,Miss,,35273,1,3,3
+217,1,3,female,27,0,0,STON/O2. 3101283,7.925,-1,S,train,Honkanen,Miss,STONO,2,0,1,27
+218,0,2,male,42,1,0,243847,27,-1,S,train,Jacobsohn,Mr,,243847,1,2,2
+219,1,1,female,32,0,0,11813,76.2917,D,C,train,Bazzani,Miss,,11813,0,1,2
+220,0,2,male,30,0,0,W/C 14208,10.5,-1,S,train,Harris,Mr,WC,14208,0,2,1
+221,1,3,male,16,0,0,SOTON/OQ 392089,8.05,-1,S,train,Sunderland,Mr,SOTONOQ,392089,0,1,1
+222,0,2,male,27,0,0,220367,13,-1,S,train,Bracken,Mr,,220367,0,1,1
+223,0,3,male,51,0,0,21440,8.05,-1,S,train,Green,Mr,,21440,0,1,1
+224,0,3,male,-1,0,0,349234,7.8958,-1,S,train,Nenkoff,Mr,,349234,0,1,1
+225,1,1,male,38,1,0,19943,90,C,S,train,Hoyt,Mr,,19943,1,2,2
+226,0,3,male,22,0,0,PP 4348,9.35,-1,S,train,Berglund,Mr,PP,4348,0,1,1
+227,1,2,male,19,0,0,SW/PP 751,10.5,-1,S,train,Mellors,Mr,SWPP,751,0,1,2
+228,0,3,male,20.5,0,0,A/5 21173,7.25,-1,S,train,Lovell,Mr,A,5,0,1,28
+229,0,2,male,18,0,0,236171,13,-1,S,train,Fahlstrom,Mr,,236171,0,1,1
+230,0,3,female,-1,3,1,4133,25.4667,-1,S,train,Lefebre,Miss,,4133,1,5,5
+231,1,1,female,35,1,0,36973,83.475,C,S,train,Harris,Mrs,,36973,1,2,2
+232,0,3,male,29,0,0,347067,7.775,-1,S,train,Larsson,Mr,,347067,0,2,1
+233,0,2,male,59,0,0,237442,13.5,-1,S,train,Sjostedt,Mr,,237442,0,1,1
+234,1,3,female,5,4,2,347077,31.3875,-1,S,train,Asplund,Miss,,347077,1,7,7
+235,0,2,male,24,0,0,C.A. 29566,10.5,-1,S,train,Leyson,Mr,CA,29566,0,1,1
+236,0,3,female,-1,0,0,W./C. 6609,7.55,-1,S,train,Harknett,Miss,WC,6609,0,1,1
+237,0,2,male,44,1,0,26707,26,-1,S,train,Hold,Mr,,26707,1,2,2
+238,1,2,female,8,0,2,C.A. 31921,26.25,-1,S,train,Collyer,Miss,CA,31921,1,3,3
+239,0,2,male,19,0,0,28665,10.5,-1,S,train,Pengelly,Mr,,28665,0,1,1
+240,0,2,male,33,0,0,SCO/W 1585,12.275,-1,S,train,Hunt,Mr,SCOW,1585,0,1,1
+241,0,3,female,-1,1,0,2665,14.4542,-1,C,train,Zabour,Miss,,2665,1,2,2
+242,1,3,female,-1,1,0,367230,15.5,-1,Q,train,Murphy,Miss,,367230,1,2,2
+243,0,2,male,29,0,0,W./C. 14263,10.5,-1,S,train,Coleridge,Mr,WC,14263,0,1,1
+244,0,3,male,22,0,0,STON/O 2. 3101275,7.125,-1,S,train,Maenpaa,Mr,STONO,2,0,1,27
+245,0,3,male,30,0,0,2694,7.225,-1,C,train,Attalah,Mr,,2694,0,2,1
+246,0,1,male,44,2,0,19928,90,C,Q,train,Minahan,Dr,,19928,1,3,3
+247,0,3,female,25,0,0,347071,7.775,-1,S,train,Lindahl,Miss,,347071,0,1,1
+248,1,2,female,24,0,2,250649,14.5,-1,S,train,Hamalainen,Mrs,,250649,1,2,2
+249,1,1,male,37,1,1,11751,52.5542,D,S,train,Beckwith,Mr,,11751,1,2,2
+250,0,2,male,54,1,0,244252,26,-1,S,train,Carter,Rev,,244252,1,2,2
+251,0,3,male,-1,0,0,362316,7.25,-1,S,train,Reed,Mr,,362316,0,1,1
+252,0,3,female,29,1,1,347054,10.4625,G,S,train,Strom,Mrs,,347054,1,2,2
+253,0,1,male,62,0,0,113514,26.55,C,S,train,Stead,Mr,,113514,0,1,1
+254,0,3,male,30,1,0,A/5. 3336,16.1,-1,S,train,Lobb,Mr,A,5,1,2,28
+255,0,3,female,41,0,2,370129,20.2125,-1,S,train,Rosblom,Mrs,,370129,1,3,3
+256,1,3,female,29,0,2,2650,15.2458,-1,C,train,Touma,Mrs,,2650,1,3,3
+257,1,1,female,-1,0,0,PC 17585,79.2,-1,C,train,Thorne,Mrs,PC,17585,0,1,2
+258,1,1,female,30,0,0,110152,86.5,B,S,train,Cherry,Miss,,110152,0,1,3
+259,1,1,female,35,0,0,PC 17755,512.3292,-1,C,train,Ward,Miss,PC,17755,0,1,4
+260,1,2,female,50,0,1,230433,26,-1,S,train,Parrish,Mrs,,230433,1,1,2
+261,0,3,male,-1,0,0,384461,7.75,-1,Q,train,Smith,Mr,,384461,0,1,1
+262,1,3,male,3,4,2,347077,31.3875,-1,S,train,Asplund,Master,,347077,1,7,7
+263,0,1,male,52,1,1,110413,79.65,E,S,train,Taussig,Mr,,110413,1,3,3
+264,0,1,male,40,0,0,112059,0,B,S,train,Harrison,Mr,,112059,0,1,1
+265,0,3,female,-1,0,0,382649,7.75,-1,Q,train,Henry,Miss,,382649,0,1,1
+266,0,2,male,36,0,0,C.A. 17248,10.5,-1,S,train,Reeves,Mr,CA,17248,0,1,1
+267,0,3,male,16,4,1,3101295,39.6875,-1,S,train,Panula,Mr,,3101295,1,6,7
+268,1,3,male,25,1,0,347083,7.775,-1,S,train,Persson,Mr,,347083,1,1,1
+269,1,1,female,58,0,1,PC 17582,153.4625,C,S,train,Graham,Mrs,PC,17582,1,2,3
+270,1,1,female,35,0,0,PC 17760,135.6333,C,S,train,Bissette,Miss,PC,17760,0,1,4
+271,0,1,male,-1,0,0,113798,31,-1,S,train,Cairns,Mr,,113798,0,1,2
+272,1,3,male,25,0,0,LINE,0,-1,S,train,Tornquist,Mr,LINE,-1,0,1,4
+273,1,2,female,41,0,1,250644,19.5,-1,S,train,Mellinger,Mrs,,250644,1,2,2
+274,0,1,male,37,0,1,PC 17596,29.7,C,C,train,Natsch,Mr,PC,17596,1,1,1
+275,1,3,female,-1,0,0,370375,7.75,-1,Q,train,Healy,Miss,,370375,0,1,1
+276,1,1,female,63,1,0,13502,77.9583,D,S,train,Andrews,Miss,,13502,1,1,3
+277,0,3,female,45,0,0,347073,7.75,-1,S,train,Lindblom,Miss,,347073,0,1,1
+278,0,2,male,-1,0,0,239853,0,-1,S,train,Parkes,Mr,,239853,0,1,3
+279,0,3,male,7,4,1,382652,29.125,-1,Q,train,Rice,Master,,382652,1,6,6
+280,1,3,female,35,1,1,C.A. 2673,20.25,-1,S,train,Abbott,Mrs,CA,2673,1,3,4
+281,0,3,male,65,0,0,336439,7.75,-1,Q,train,Duane,Mr,,336439,0,1,1
+282,0,3,male,28,0,0,347464,7.8542,-1,S,train,Olsson,Mr,,347464,0,3,1
+283,0,3,male,16,0,0,345778,9.5,-1,S,train,de Pelsmaeker,Mr,,345778,0,1,1
+284,1,3,male,19,0,0,A/5. 10482,8.05,-1,S,train,Dorking,Mr,A,5,0,1,28
+285,0,1,male,-1,0,0,113056,26,A,S,train,Smith,Mr,,113056,0,1,1
+286,0,3,male,33,0,0,349239,8.6625,-1,C,train,Stankovic,Mr,,349239,0,1,1
+287,1,3,male,30,0,0,345774,9.5,-1,S,train,de Mulder,Mr,,345774,0,1,1
+288,0,3,male,22,0,0,349206,7.8958,-1,S,train,Naidenoff,Mr,,349206,0,1,1
+289,1,2,male,42,0,0,237798,13,-1,S,train,Hosono,Mr,,237798,0,1,1
+290,1,3,female,22,0,0,370373,7.75,-1,Q,train,Connolly,Miss,,370373,0,2,1
+291,1,1,female,26,0,0,19877,78.85,-1,S,train,Barber,Miss,,19877,0,1,3
+292,1,1,female,19,1,0,11967,91.0792,B,C,train,Bishop,Mrs,,11967,1,2,2
+293,0,2,male,36,0,0,SC/Paris 2163,12.875,D,C,train,Levy,Mr,SCParis,2163,0,1,1
+294,0,3,female,24,0,0,349236,8.85,-1,S,train,Haas,Miss,,349236,0,1,1
+295,0,3,male,24,0,0,349233,7.8958,-1,S,train,Mineff,Mr,,349233,0,1,1
+296,0,1,male,-1,0,0,PC 17612,27.7208,-1,C,train,Lewy,Mr,PC,17612,0,1,1
+297,0,3,male,23.5,0,0,2693,7.2292,-1,C,train,Hanna,Mr,,2693,0,1,1
+298,0,1,female,2,1,2,113781,151.55,C,S,train,Allison,Miss,,113781,1,4,6
+299,1,1,male,-1,0,0,19988,30.5,C,S,train,Saalfeld,Mr,,19988,0,1,1
+300,1,1,female,50,0,1,PC 17558,247.5208,B,C,train,Baxter,Mrs,PC,17558,1,2,3
+301,1,3,female,-1,0,0,9234,7.75,-1,Q,train,Kelly,Miss,,9234,0,3,1
+302,1,3,male,-1,2,0,367226,23.25,-1,Q,train,McCoy,Mr,,367226,1,3,3
+303,0,3,male,19,0,0,LINE,0,-1,S,train,Johnson,Mr,LINE,-1,0,3,4
+304,1,2,female,-1,0,0,226593,12.35,E,Q,train,Keane,Miss,,226593,0,2,1
+305,0,3,male,-1,0,0,A/5 2466,8.05,-1,S,train,Williams,Mr,A,5,0,2,28
+306,1,1,male,0.92,1,2,113781,151.55,C,S,train,Allison,Master,,113781,1,4,6
+307,1,1,female,-1,0,0,17421,110.8833,-1,C,train,Fleming,Miss,,17421,0,1,4
+308,1,1,female,17,1,0,PC 17758,108.9,C,C,train,Penasco y Castellana,Mrs,PC,17758,1,2,3
+309,0,2,male,30,1,0,P/PP 3381,24,-1,C,train,Abelson,Mr,PPP,3381,1,2,2
+310,1,1,female,30,0,0,PC 17485,56.9292,E,C,train,Francatelli,Miss,PC,17485,0,1,2
+311,1,1,female,24,0,0,11767,83.1583,C,C,train,Hays,Miss,,11767,0,1,3
+312,1,1,female,18,2,2,PC 17608,262.375,B,C,train,Ryerson,Miss,PC,17608,1,5,7
+313,0,2,female,26,1,1,250651,26,-1,S,train,Lahtinen,Mrs,,250651,1,2,2
+314,0,3,male,28,0,0,349243,7.8958,-1,S,train,Hendekovic,Mr,,349243,0,1,1
+315,0,2,male,43,1,1,F.C.C. 13529,26.25,-1,S,train,Hart,Mr,FCC,13529,1,3,3
+316,1,3,female,26,0,0,347470,7.8542,-1,S,train,Nilsson,Miss,,347470,0,3,1
+317,1,2,female,24,1,0,244367,26,-1,S,train,Kantor,Mrs,,244367,1,2,2
+318,0,2,male,54,0,0,29011,14,-1,S,train,Moraweck,Dr,,29011,0,1,1
+319,1,1,female,31,0,2,36928,164.8667,C,S,train,Wick,Miss,,36928,1,3,4
+320,1,1,female,40,1,1,16966,134.5,E,C,train,Spedden,Mrs,,16966,1,3,5
+321,0,3,male,22,0,0,A/5 21172,7.25,-1,S,train,Dennis,Mr,A,5,0,2,28
+322,0,3,male,27,0,0,349219,7.8958,-1,S,train,Danoff,Mr,,349219,0,1,1
+323,1,2,female,30,0,0,234818,12.35,-1,Q,train,Slayter,Miss,,234818,0,1,1
+324,1,2,female,22,1,1,248738,29,-1,S,train,Caldwell,Mrs,,248738,1,3,3
+325,0,3,male,-1,8,2,CA. 2343,69.55,-1,S,train,Sage,Mr,CA,2343,1,11,11
+326,1,1,female,36,0,0,PC 17760,135.6333,C,C,train,Young,Miss,PC,17760,0,1,4
+327,0,3,male,61,0,0,345364,6.2375,-1,S,train,Nysveen,Mr,,345364,0,1,1
+328,1,2,female,36,0,0,28551,13,D,S,train,Ball,Mrs,,28551,0,1,1
+329,1,3,female,31,1,1,363291,20.525,-1,S,train,Goldsmith,Mrs,,363291,1,3,3
+330,1,1,female,16,0,1,111361,57.9792,B,C,train,Hippach,Miss,,111361,1,2,2
+331,1,3,female,-1,2,0,367226,23.25,-1,Q,train,McCoy,Miss,,367226,1,3,3
+332,0,1,male,45.5,0,0,113043,28.5,C,S,train,Partner,Mr,,113043,0,1,1
+333,0,1,male,38,0,1,PC 17582,153.4625,C,S,train,Graham,Mr,PC,17582,1,2,3
+334,0,3,male,16,2,0,345764,18,-1,S,train,Vander Planke,Mr,,345764,1,4,2
+335,1,1,female,-1,1,0,PC 17611,133.65,-1,S,train,Frauenthal,Mrs,PC,17611,1,2,2
+336,0,3,male,-1,0,0,349225,7.8958,-1,S,train,Denkoff,Mr,,349225,0,1,1
+337,0,1,male,29,1,0,113776,66.6,C,S,train,Pears,Mr,,113776,1,2,2
+338,1,1,female,41,0,0,16966,134.5,E,C,train,Burns,Miss,,16966,0,1,5
+339,1,3,male,45,0,0,7598,8.05,-1,S,train,Dahl,Mr,,7598,0,1,1
+340,0,1,male,45,0,0,113784,35.5,T,S,train,Blackwell,Mr,,113784,0,1,1
+341,1,2,male,2,1,1,230080,26,F,S,train,Navratil,Master,,230080,1,3,3
+342,1,1,female,24,3,2,19950,263,C,S,train,Fortune,Miss,,19950,1,6,6
+343,0,2,male,28,0,0,248740,13,-1,S,train,Collander,Mr,,248740,0,1,1
+344,0,2,male,25,0,0,244361,13,-1,S,train,Sedgwick,Mr,,244361,0,1,1
+345,0,2,male,36,0,0,229236,13,-1,S,train,Fox,Mr,,229236,0,1,1
+346,1,2,female,24,0,0,248733,13,F,S,train,Brown,Miss,,248733,0,1,1
+347,1,2,female,40,0,0,31418,13,-1,S,train,Smith,Miss,,31418,0,1,1
+348,1,3,female,-1,1,0,386525,16.1,-1,S,train,Davison,Mrs,,386525,1,2,2
+349,1,3,male,3,1,1,C.A. 37671,15.9,-1,S,train,Coutts,Master,CA,37671,1,3,3
+350,0,3,male,42,0,0,315088,8.6625,-1,S,train,Dimic,Mr,,315088,0,1,1
+351,0,3,male,23,0,0,7267,9.225,-1,S,train,Odahl,Mr,,7267,0,1,1
+352,0,1,male,-1,0,0,113510,35,C,S,train,Williams-Lambert,Mr,,113510,0,1,1
+353,0,3,male,15,1,1,2695,7.2292,-1,C,train,Elias,Mr,,2695,1,3,1
+354,0,3,male,25,1,0,349237,17.8,-1,S,train,Arnold-Franchi,Mr,,349237,1,2,2
+355,0,3,male,-1,0,0,2647,7.225,-1,C,train,Yousif,Mr,,2647,0,1,1
+356,0,3,male,28,0,0,345783,9.5,-1,S,train,Vanden Steen,Mr,,345783,0,1,1
+357,1,1,female,22,0,1,113505,55,E,S,train,Bowerman,Miss,,113505,1,1,2
+358,0,2,female,38,0,0,237671,13,-1,S,train,Funk,Miss,,237671,0,1,1
+359,1,3,female,-1,0,0,330931,7.8792,-1,Q,train,McGovern,Miss,,330931,0,1,1
+360,1,3,female,-1,0,0,330980,7.8792,-1,Q,train,Mockler,Miss,,330980,0,1,1
+361,0,3,male,40,1,4,347088,27.9,-1,S,train,Skoog,Mr,,347088,1,6,6
+362,0,2,male,29,1,0,SC/PARIS 2167,27.7208,-1,C,train,del Carlo,Mr,SCPARIS,2167,1,2,2
+363,0,3,female,45,0,1,2691,14.4542,-1,C,train,Barbara,Mrs,,2691,1,2,2
+364,0,3,male,35,0,0,SOTON/O.Q. 3101310,7.05,-1,S,train,Asim,Mr,SOTONOQ,3101310,0,1,1
+365,0,3,male,-1,1,0,370365,15.5,-1,Q,train,O'Brien,Mr,,370365,1,2,2
+366,0,3,male,30,0,0,C 7076,7.25,-1,S,train,Adahl,Mr,C,7076,0,1,1
+367,1,1,female,60,1,0,110813,75.25,D,C,train,Warren,Mrs,,110813,1,2,2
+368,1,3,female,-1,0,0,2626,7.2292,-1,C,train,Moussa,Mrs,,2626,0,1,1
+369,1,3,female,-1,0,0,14313,7.75,-1,Q,train,Jermyn,Miss,,14313,0,1,1
+370,1,1,female,24,0,0,PC 17477,69.3,B,C,train,Aubart,Mme,PC,17477,0,1,2
+371,1,1,male,25,1,0,11765,55.4417,E,C,train,Harder,Mr,,11765,1,2,2
+372,0,3,male,18,1,0,3101267,6.4958,-1,S,train,Wiklund,Mr,,3101267,1,2,1
+373,0,3,male,19,0,0,323951,8.05,-1,S,train,Beavan,Mr,,323951,0,1,1
+374,0,1,male,22,0,0,PC 17760,135.6333,-1,C,train,Ringhini,Mr,PC,17760,0,1,4
+375,0,3,female,3,3,1,349909,21.075,-1,S,train,Palsson,Miss,,349909,1,5,5
+376,1,1,female,-1,1,0,PC 17604,82.1708,-1,C,train,Meyer,Mrs,PC,17604,1,2,2
+377,1,3,female,22,0,0,C 7077,7.25,-1,S,train,Landergren,Miss,C,7077,0,1,1
+378,0,1,male,27,0,2,113503,211.5,C,C,train,Widener,Mr,,113503,1,3,5
+379,0,3,male,20,0,0,2648,4.0125,-1,C,train,Betros,Mr,,2648,0,2,1
+380,0,3,male,19,0,0,347069,7.775,-1,S,train,Gustafsson,Mr,,347069,0,2,1
+381,1,1,female,42,0,0,PC 17757,227.525,-1,C,train,Bidois,Miss,PC,17757,0,1,5
+382,1,3,female,1,0,2,2653,15.7417,-1,C,train,Nakid,Miss,,2653,1,3,3
+383,0,3,male,32,0,0,STON/O 2. 3101293,7.925,-1,S,train,Tikkanen,Mr,STONO,2,0,1,27
+384,1,1,female,35,1,0,113789,52,-1,S,train,Holverson,Mrs,,113789,1,2,2
+385,0,3,male,-1,0,0,349227,7.8958,-1,S,train,Plotcharsky,Mr,,349227,0,1,1
+386,0,2,male,18,0,0,S.O.C. 14879,73.5,-1,S,train,Davies,Mr,SOC,14879,0,1,7
+387,0,3,male,1,5,2,CA 2144,46.9,-1,S,train,Goodwin,Master,CA,2144,1,8,8
+388,1,2,female,36,0,0,27849,13,-1,S,train,Buss,Miss,,27849,0,1,1
+389,0,3,male,-1,0,0,367655,7.7292,-1,Q,train,Sadlier,Mr,,367655,0,1,1
+390,1,2,female,17,0,0,SC 1748,12,-1,C,train,Lehmann,Miss,SC,1748,0,1,1
+391,1,1,male,36,1,2,113760,120,B,S,train,Carter,Mr,,113760,1,4,4
+392,1,3,male,21,0,0,350034,7.7958,-1,S,train,Jansson,Mr,,350034,0,1,1
+393,0,3,male,28,2,0,3101277,7.925,-1,S,train,Gustafsson,Mr,,3101277,1,2,1
+394,1,1,female,23,1,0,35273,113.275,D,C,train,Newell,Miss,,35273,1,3,3
+395,1,3,female,24,0,2,PP 9549,16.7,G,S,train,Sandstrom,Mrs,PP,9549,1,3,3
+396,0,3,male,22,0,0,350052,7.7958,-1,S,train,Johansson,Mr,,350052,0,4,1
+397,0,3,female,31,0,0,350407,7.8542,-1,S,train,Olsson,Miss,,350407,0,3,1
+398,0,2,male,46,0,0,28403,26,-1,S,train,McKane,Mr,,28403,0,1,2
+399,0,2,male,23,0,0,244278,10.5,-1,S,train,Pain,Dr,,244278,0,1,1
+400,1,2,female,28,0,0,240929,12.65,-1,S,train,Trout,Mrs,,240929,0,1,1
+401,1,3,male,39,0,0,STON/O 2. 3101289,7.925,-1,S,train,Niskanen,Mr,STONO,2,0,1,27
+402,0,3,male,26,0,0,341826,8.05,-1,S,train,Adams,Mr,,341826,0,1,1
+403,0,3,female,21,1,0,4137,9.825,-1,S,train,Jussila,Miss,,4137,1,2,1
+404,0,3,male,28,1,0,STON/O2. 3101279,15.85,-1,S,train,Hakkarainen,Mr,STONO,2,1,2,27
+405,0,3,female,20,0,0,315096,8.6625,-1,S,train,Oreskovic,Miss,,315096,0,3,1
+406,0,2,male,34,1,0,28664,21,-1,S,train,Gale,Mr,,28664,1,2,2
+407,0,3,male,51,0,0,347064,7.75,-1,S,train,Widegren,Mr,,347064,0,1,1
+408,1,2,male,3,1,1,29106,18.75,-1,S,train,Richards,Master,,29106,1,3,3
+409,0,3,male,21,0,0,312992,7.775,-1,S,train,Birkeland,Mr,,312992,0,1,1
+410,0,3,female,-1,3,1,4133,25.4667,-1,S,train,Lefebre,Miss,,4133,1,5,5
+411,0,3,male,-1,0,0,349222,7.8958,-1,S,train,Sdycoff,Mr,,349222,0,1,1
+412,0,3,male,-1,0,0,394140,6.8583,-1,Q,train,Hart,Mr,,394140,0,1,1
+413,1,1,female,33,1,0,19928,90,C,Q,train,Minahan,Miss,,19928,1,3,3
+414,0,2,male,-1,0,0,239853,0,-1,S,train,Cunningham,Mr,,239853,0,1,3
+415,1,3,male,44,0,0,STON/O 2. 3101269,7.925,-1,S,train,Sundman,Mr,STONO,2,0,1,27
+416,0,3,female,-1,0,0,343095,8.05,-1,S,train,Meek,Mrs,,343095,0,1,1
+417,1,2,female,34,1,1,28220,32.5,-1,S,train,Drew,Mrs,,28220,1,3,3
+418,1,2,female,18,0,2,250652,13,-1,S,train,Silven,Miss,,250652,1,1,1
+419,0,2,male,30,0,0,28228,13,-1,S,train,Matthews,Mr,,28228,0,1,1
+420,0,3,female,10,0,2,345773,24.15,-1,S,train,Van Impe,Miss,,345773,1,3,3
+421,0,3,male,-1,0,0,349254,7.8958,-1,C,train,Gheorgheff,Mr,,349254,0,1,1
+422,0,3,male,21,0,0,A/5. 13032,7.7333,-1,Q,train,Charters,Mr,A,5,0,1,28
+423,0,3,male,29,0,0,315082,7.875,-1,S,train,Zimmerman,Mr,,315082,0,1,1
+424,0,3,female,28,1,1,347080,14.4,-1,S,train,Danbom,Mrs,,347080,1,3,3
+425,0,3,male,18,1,1,370129,20.2125,-1,S,train,Rosblom,Mr,,370129,1,3,3
+426,0,3,male,-1,0,0,A/4. 34244,7.25,-1,S,train,Wiseman,Mr,A,4,0,1,13
+427,1,2,female,28,1,0,2003,26,-1,S,train,Clarke,Mrs,,2003,1,2,2
+428,1,2,female,19,0,0,250655,26,-1,S,train,Phillips,Miss,,250655,0,1,2
+429,0,3,male,-1,0,0,364851,7.75,-1,Q,train,Flynn,Mr,,364851,0,2,1
+430,1,3,male,32,0,0,SOTON/O.Q. 392078,8.05,E,S,train,Pickard,Mr,SOTONOQ,392078,0,1,1
+431,1,1,male,28,0,0,110564,26.55,C,S,train,Bjornstrom-Steffansson,Mr,,110564,0,1,1
+432,1,3,female,-1,1,0,376564,16.1,-1,S,train,Thorneycroft,Mrs,,376564,1,2,2
+433,1,2,female,42,1,0,SC/AH 3085,26,-1,S,train,Louch,Mrs,SCAH,3085,1,2,2
+434,0,3,male,17,0,0,STON/O 2. 3101274,7.125,-1,S,train,Kallio,Mr,STONO,2,0,1,27
+435,0,1,male,50,1,0,13507,55.9,E,S,train,Silvey,Mr,,13507,1,2,2
+436,1,1,female,14,1,2,113760,120,B,S,train,Carter,Miss,,113760,1,4,4
+437,0,3,female,21,2,2,W./C. 6608,34.375,-1,S,train,Ford,Miss,WC,6608,1,5,5
+438,1,2,female,24,2,3,29106,18.75,-1,S,train,Richards,Mrs,,29106,1,3,3
+439,0,1,male,64,1,4,19950,263,C,S,train,Fortune,Mr,,19950,1,6,6
+440,0,2,male,31,0,0,C.A. 18723,10.5,-1,S,train,Kvillner,Mr,CA,18723,0,1,1
+441,1,2,female,45,1,1,F.C.C. 13529,26.25,-1,S,train,Hart,Mrs,FCC,13529,1,3,3
+442,0,3,male,20,0,0,345769,9.5,-1,S,train,Hampe,Mr,,345769,0,1,1
+443,0,3,male,25,1,0,347076,7.775,-1,S,train,Petterson,Mr,,347076,1,1,1
+444,1,2,female,28,0,0,230434,13,-1,S,train,Reynaldo,Ms,,230434,0,1,1
+445,1,3,male,-1,0,0,65306,8.1125,-1,S,train,Johannesen-Bratthammer,Mr,,65306,0,1,1
+446,1,1,male,4,0,2,33638,81.8583,A,S,train,Dodge,Master,,33638,1,3,3
+447,1,2,female,13,0,1,250644,19.5,-1,S,train,Mellinger,Miss,,250644,1,2,2
+448,1,1,male,34,0,0,113794,26.55,-1,S,train,Seward,Mr,,113794,0,1,1
+449,1,3,female,5,2,1,2666,19.2583,-1,C,train,Baclini,Miss,,2666,1,4,4
+450,1,1,male,52,0,0,113786,30.5,C,S,train,Peuchen,Major,,113786,0,1,1
+451,0,2,male,36,1,2,C.A. 34651,27.75,-1,S,train,West,Mr,CA,34651,1,4,4
+452,0,3,male,-1,1,0,65303,19.9667,-1,S,train,Hagland,Mr,,65303,1,2,1
+453,0,1,male,30,0,0,113051,27.75,C,C,train,Foreman,Mr,,113051,0,1,1
+454,1,1,male,49,1,0,17453,89.1042,C,C,train,Goldenberg,Mr,,17453,1,2,2
+455,0,3,male,-1,0,0,A/5 2817,8.05,-1,S,train,Peduzzi,Mr,A,5,0,1,28
+456,1,3,male,29,0,0,349240,7.8958,-1,C,train,Jalsevac,Mr,,349240,0,1,1
+457,0,1,male,65,0,0,13509,26.55,E,S,train,Millet,Mr,,13509,0,1,1
+458,1,1,female,-1,1,0,17464,51.8625,D,S,train,Kenyon,Mrs,,17464,1,2,2
+459,1,2,female,50,0,0,F.C.C. 13531,10.5,-1,S,train,Toomey,Miss,FCC,13531,0,1,1
+460,0,3,male,-1,0,0,371060,7.75,-1,Q,train,O'Connor,Mr,,371060,0,2,1
+461,1,1,male,48,0,0,19952,26.55,E,S,train,Anderson,Mr,,19952,0,1,1
+462,0,3,male,34,0,0,364506,8.05,-1,S,train,Morley,Mr,,364506,0,1,1
+463,0,1,male,47,0,0,111320,38.5,E,S,train,Gee,Mr,,111320,0,1,1
+464,0,2,male,48,0,0,234360,13,-1,S,train,Milling,Mr,,234360,0,1,1
+465,0,3,male,-1,0,0,A/S 2816,8.05,-1,S,train,Maisner,Mr,AS,2816,0,1,1
+466,0,3,male,38,0,0,SOTON/O.Q. 3101306,7.05,-1,S,train,Goncalves,Mr,SOTONOQ,3101306,0,1,1
+467,0,2,male,-1,0,0,239853,0,-1,S,train,Campbell,Mr,,239853,0,1,3
+468,0,1,male,56,0,0,113792,26.55,-1,S,train,Smart,Mr,,113792,0,1,1
+469,0,3,male,-1,0,0,36209,7.725,-1,Q,train,Scanlan,Mr,,36209,0,1,1
+470,1,3,female,0.75,2,1,2666,19.2583,-1,C,train,Baclini,Miss,,2666,1,4,4
+471,0,3,male,-1,0,0,323592,7.25,-1,S,train,Keefe,Mr,,323592,0,1,1
+472,0,3,male,38,0,0,315089,8.6625,-1,S,train,Cacic,Mr,,315089,0,4,1
+473,1,2,female,33,1,2,C.A. 34651,27.75,-1,S,train,West,Mrs,CA,34651,1,4,4
+474,1,2,female,23,0,0,SC/AH Basle 541,13.7917,D,C,train,Jerwan,Mrs,SCAH,541,0,1,1
+475,0,3,female,22,0,0,7553,9.8375,-1,S,train,Strandberg,Miss,,7553,0,1,1
+476,0,1,male,-1,0,0,110465,52,A,S,train,Clifford,Mr,,110465,0,1,2
+477,0,2,male,34,1,0,31027,21,-1,S,train,Renouf,Mr,,31027,1,2,2
+478,0,3,male,29,1,0,3460,7.0458,-1,S,train,Braund,Mr,,3460,1,2,1
+479,0,3,male,22,0,0,350060,7.5208,-1,S,train,Karlsson,Mr,,350060,0,3,1
+480,1,3,female,2,0,1,3101298,12.2875,-1,S,train,Hirvonen,Miss,,3101298,1,2,2
+481,0,3,male,9,5,2,CA 2144,46.9,-1,S,train,Goodwin,Master,CA,2144,1,8,8
+482,0,2,male,-1,0,0,239854,0,-1,S,train,Frost,Mr,,239854,0,1,1
+483,0,3,male,50,0,0,A/5 3594,8.05,-1,S,train,Rouse,Mr,A,5,0,1,28
+484,1,3,female,63,0,0,4134,9.5875,-1,S,train,Turkula,Mrs,,4134,0,1,1
+485,1,1,male,25,1,0,11967,91.0792,B,C,train,Bishop,Mr,,11967,1,2,2
+486,0,3,female,-1,3,1,4133,25.4667,-1,S,train,Lefebre,Miss,,4133,1,5,5
+487,1,1,female,35,1,0,19943,90,C,S,train,Hoyt,Mrs,,19943,1,2,2
+488,0,1,male,58,0,0,11771,29.7,B,C,train,Kent,Mr,,11771,0,1,1
+489,0,3,male,30,0,0,A.5. 18509,8.05,-1,S,train,Somerton,Mr,A,5,0,1,28
+490,1,3,male,9,1,1,C.A. 37671,15.9,-1,S,train,Coutts,Master,CA,37671,1,3,3
+491,0,3,male,-1,1,0,65304,19.9667,-1,S,train,Hagland,Mr,,65304,1,2,1
+492,0,3,male,21,0,0,SOTON/OQ 3101317,7.25,-1,S,train,Windelov,Mr,SOTONOQ,3101317,0,1,1
+493,0,1,male,55,0,0,113787,30.5,C,S,train,Molson,Mr,,113787,0,1,1
+494,0,1,male,71,0,0,PC 17609,49.5042,-1,C,train,Artagaveytia,Mr,PC,17609,0,1,1
+495,0,3,male,21,0,0,A/4 45380,8.05,-1,S,train,Stanley,Mr,A,4,0,2,13
+496,0,3,male,-1,0,0,2627,14.4583,-1,C,train,Yousseff,Mr,,2627,0,1,2
+497,1,1,female,54,1,0,36947,78.2667,D,C,train,Eustis,Miss,,36947,1,1,2
+498,0,3,male,-1,0,0,C.A. 6212,15.1,-1,S,train,Shellard,Mr,CA,6212,0,1,2
+499,0,1,female,25,1,2,113781,151.55,C,S,train,Allison,Mrs,,113781,1,4,6
+500,0,3,male,24,0,0,350035,7.7958,-1,S,train,Svensson,Mr,,350035,0,3,1
+501,0,3,male,17,0,0,315086,8.6625,-1,S,train,Calic,Mr,,315086,0,2,1
+502,0,3,female,21,0,0,364846,7.75,-1,Q,train,Canavan,Miss,,364846,0,2,1
+503,0,3,female,-1,0,0,330909,7.6292,-1,Q,train,O'Sullivan,Miss,,330909,0,1,1
+504,0,3,female,37,0,0,4135,9.5875,-1,S,train,Laitinen,Miss,,4135,0,1,1
+505,1,1,female,16,0,0,110152,86.5,B,S,train,Maioni,Miss,,110152,0,1,3
+506,0,1,male,18,1,0,PC 17758,108.9,C,C,train,Penasco y Castellana,Mr,PC,17758,1,2,3
+507,1,2,female,33,0,2,26360,26,-1,S,train,Quick,Mrs,,26360,1,3,3
+508,1,1,male,-1,0,0,111427,26.55,-1,S,train,Bradley,Mr,,111427,0,1,1
+509,0,3,male,28,0,0,C 4001,22.525,-1,S,train,Olsen,Mr,C,4001,0,2,3
+510,1,3,male,26,0,0,1601,56.4958,-1,S,train,Lang,Mr,,1601,0,1,8
+511,1,3,male,29,0,0,382651,7.75,-1,Q,train,Daly,Mr,,382651,0,2,1
+512,0,3,male,-1,0,0,SOTON/OQ 3101316,8.05,-1,S,train,Webber,Mr,SOTONOQ,3101316,0,1,1
+513,1,1,male,36,0,0,PC 17473,26.2875,E,S,train,McGough,Mr,PC,17473,0,1,1
+514,1,1,female,54,1,0,PC 17603,59.4,-1,C,train,Rothschild,Mrs,PC,17603,1,2,2
+515,0,3,male,24,0,0,349209,7.4958,-1,S,train,Coleff,Mr,,349209,0,2,1
+516,0,1,male,47,0,0,36967,34.0208,D,S,train,Walker,Mr,,36967,0,1,1
+517,1,2,female,34,0,0,C.A. 34260,10.5,F,S,train,Lemore,Mrs,CA,34260,0,1,1
+518,0,3,male,-1,0,0,371110,24.15,-1,Q,train,Ryan,Mr,,371110,0,2,3
+519,1,2,female,36,1,0,226875,26,-1,S,train,Angle,Mrs,,226875,1,2,2
+520,0,3,male,32,0,0,349242,7.8958,-1,S,train,Pavlovic,Mr,,349242,0,1,1
+521,1,1,female,30,0,0,12749,93.5,B,S,train,Perreault,Miss,,12749,0,1,4
+522,0,3,male,22,0,0,349252,7.8958,-1,S,train,Vovk,Mr,,349252,0,1,1
+523,0,3,male,-1,0,0,2624,7.225,-1,C,train,Lahoud,Mr,,2624,0,1,1
+524,1,1,female,44,0,1,111361,57.9792,B,C,train,Hippach,Mrs,,111361,1,2,2
+525,0,3,male,-1,0,0,2700,7.2292,-1,C,train,Kassem,Mr,,2700,0,1,1
+526,0,3,male,40.5,0,0,367232,7.75,-1,Q,train,Farrell,Mr,,367232,0,1,1
+527,1,2,female,50,0,0,W./C. 14258,10.5,-1,S,train,Ridsdale,Miss,WC,14258,0,1,1
+528,0,1,male,-1,0,0,PC 17483,221.7792,C,S,train,Farthing,Mr,PC,17483,0,1,4
+529,0,3,male,39,0,0,3101296,7.925,-1,S,train,Salonen,Mr,,3101296,0,1,1
+530,0,2,male,23,2,1,29104,11.5,-1,S,train,Hocking,Mr,,29104,1,3,1
+531,1,2,female,2,1,1,26360,26,-1,S,train,Quick,Miss,,26360,1,3,3
+532,0,3,male,-1,0,0,2641,7.2292,-1,C,train,Toufik,Mr,,2641,0,1,1
+533,0,3,male,17,1,1,2690,7.2292,-1,C,train,Elias,Mr,,2690,1,3,1
+534,1,3,female,-1,0,2,2668,22.3583,-1,C,train,Peter,Mrs,,2668,1,3,3
+535,0,3,female,30,0,0,315084,8.6625,-1,S,train,Cacic,Miss,,315084,0,4,1
+536,1,2,female,7,0,2,F.C.C. 13529,26.25,-1,S,train,Hart,Miss,FCC,13529,1,3,3
+537,0,1,male,45,0,0,113050,26.55,B,S,train,Butt,Major,,113050,0,1,1
+538,1,1,female,30,0,0,PC 17761,106.425,-1,C,train,LeRoy,Miss,PC,17761,0,1,3
+539,0,3,male,-1,0,0,364498,14.5,-1,S,train,Risien,Mr,,364498,0,2,2
+540,1,1,female,22,0,2,13568,49.5,B,C,train,Frolicher,Miss,,13568,1,1,1
+541,1,1,female,36,0,2,WE/P 5735,71,B,S,train,Crosby,Miss,WEP,5735,1,3,2
+542,0,3,female,9,4,2,347082,31.275,-1,S,train,Andersson,Miss,,347082,1,9,7
+543,0,3,female,11,4,2,347082,31.275,-1,S,train,Andersson,Miss,,347082,1,9,7
+544,1,2,male,32,1,0,2908,26,-1,S,train,Beane,Mr,,2908,1,2,2
+545,0,1,male,50,1,0,PC 17761,106.425,C,C,train,Douglas,Mr,PC,17761,1,3,3
+546,0,1,male,64,0,0,693,26,-1,S,train,Nicholson,Mr,,693,0,1,1
+547,1,2,female,19,1,0,2908,26,-1,S,train,Beane,Mrs,,2908,1,2,2
+548,1,2,male,-1,0,0,SC/PARIS 2146,13.8625,-1,C,train,Padro y Manent,Mr,SCPARIS,2146,0,1,1
+549,0,3,male,33,1,1,363291,20.525,-1,S,train,Goldsmith,Mr,,363291,1,3,3
+550,1,2,male,8,1,1,C.A. 33112,36.75,-1,S,train,Davies,Master,CA,33112,1,2,4
+551,1,1,male,17,0,2,17421,110.8833,C,C,train,Thayer,Mr,,17421,1,3,4
+552,0,2,male,27,0,0,244358,26,-1,S,train,Sharp,Mr,,244358,0,1,2
+553,0,3,male,-1,0,0,330979,7.8292,-1,Q,train,O'Brien,Mr,,330979,0,1,1
+554,1,3,male,22,0,0,2620,7.225,-1,C,train,Leeni,Mr,,2620,0,1,1
+555,1,3,female,22,0,0,347085,7.775,-1,S,train,Ohman,Miss,,347085,0,1,1
+556,0,1,male,62,0,0,113807,26.55,-1,S,train,Wright,Mr,,113807,0,1,1
+557,1,1,female,48,1,0,11755,39.6,A,C,train,Duff Gordon,Lady,,11755,1,2,1
+558,0,1,male,-1,0,0,PC 17757,227.525,-1,C,train,Robbins,Mr,PC,17757,0,1,5
+559,1,1,female,39,1,1,110413,79.65,E,S,train,Taussig,Mrs,,110413,1,3,3
+560,1,3,female,36,1,0,345572,17.4,-1,S,train,de Messemaeker,Mrs,,345572,1,2,2
+561,0,3,male,-1,0,0,372622,7.75,-1,Q,train,Morrow,Mr,,372622,0,1,1
+562,0,3,male,40,0,0,349251,7.8958,-1,S,train,Sivic,Mr,,349251,0,1,1
+563,0,2,male,28,0,0,218629,13.5,-1,S,train,Norman,Mr,,218629,0,1,1
+564,0,3,male,-1,0,0,SOTON/OQ 392082,8.05,-1,S,train,Simmons,Mr,SOTONOQ,392082,0,1,1
+565,0,3,female,-1,0,0,SOTON/O.Q. 392087,8.05,-1,S,train,Meanwell,Miss,SOTONOQ,392087,0,1,1
+566,0,3,male,24,2,0,A/4 48871,24.15,-1,S,train,Davies,Mr,A,4,1,3,13
+567,0,3,male,19,0,0,349205,7.8958,-1,S,train,Stoytcheff,Mr,,349205,0,1,1
+568,0,3,female,29,0,4,349909,21.075,-1,S,train,Palsson,Mrs,,349909,1,5,5
+569,0,3,male,-1,0,0,2686,7.2292,-1,C,train,Doharr,Mr,,2686,0,1,1
+570,1,3,male,32,0,0,350417,7.8542,-1,S,train,Jonsson,Mr,,350417,0,2,1
+571,1,2,male,62,0,0,S.W./PP 752,10.5,-1,S,train,Harris,Mr,SWPP,752,0,2,2
+572,1,1,female,53,2,0,11769,51.4792,C,S,train,Appleton,Mrs,,11769,1,1,2
+573,1,1,male,36,0,0,PC 17474,26.3875,E,S,train,Flynn,Mr,PC,17474,0,1,3
+574,1,3,female,-1,0,0,14312,7.75,-1,Q,train,Kelly,Miss,,14312,0,3,1
+575,0,3,male,16,0,0,A/4. 20589,8.05,-1,S,train,Rush,Mr,A,4,0,1,13
+576,0,3,male,19,0,0,358585,14.5,-1,S,train,Patchett,Mr,,358585,0,1,2
+577,1,2,female,34,0,0,243880,13,-1,S,train,Garside,Miss,,243880,0,1,1
+578,1,1,female,39,1,0,13507,55.9,E,S,train,Silvey,Mrs,,13507,1,2,2
+579,0,3,female,-1,1,0,2689,14.4583,-1,C,train,Caram,Mrs,,2689,1,2,2
+580,1,3,male,32,0,0,STON/O 2. 3101286,7.925,-1,S,train,Jussila,Mr,STONO,2,0,1,27
+581,1,2,female,25,1,1,237789,30,-1,S,train,Christy,Miss,,237789,1,2,2
+582,1,1,female,39,1,1,17421,110.8833,C,C,train,Thayer,Mrs,,17421,1,3,4
+583,0,2,male,54,0,0,28403,26,-1,S,train,Downton,Mr,,28403,0,1,2
+584,0,1,male,36,0,0,13049,40.125,A,C,train,Ross,Mr,,13049,0,1,1
+585,0,3,male,-1,0,0,3411,8.7125,-1,C,train,Paulner,Mr,,3411,0,1,1
+586,1,1,female,18,0,2,110413,79.65,E,S,train,Taussig,Miss,,110413,1,3,3
+587,0,2,male,47,0,0,237565,15,-1,S,train,Jarvis,Mr,,237565,0,1,1
+588,1,1,male,60,1,1,13567,79.2,B,C,train,Frolicher-Stehli,Mr,,13567,1,2,2
+589,0,3,male,22,0,0,14973,8.05,-1,S,train,Gilinski,Mr,,14973,0,1,1
+590,0,3,male,-1,0,0,A./5. 3235,8.05,-1,S,train,Murdlin,Mr,A,5,0,1,28
+591,0,3,male,35,0,0,STON/O 2. 3101273,7.125,-1,S,train,Rintamaki,Mr,STONO,2,0,1,27
+592,1,1,female,52,1,0,36947,78.2667,D,C,train,Stephenson,Mrs,,36947,1,1,2
+593,0,3,male,47,0,0,A/5 3902,7.25,-1,S,train,Elsbury,Mr,A,5,0,1,28
+594,0,3,female,-1,0,2,364848,7.75,-1,Q,train,Bourke,Miss,,364848,1,3,1
+595,0,2,male,37,1,0,SC/AH 29037,26,-1,S,train,Chapman,Mr,SCAH,29037,1,2,2
+596,0,3,male,36,1,1,345773,24.15,-1,S,train,Van Impe,Mr,,345773,1,3,3
+597,1,2,female,-1,0,0,248727,33,-1,S,train,Leitch,Miss,,248727,0,1,3
+598,0,3,male,49,0,0,LINE,0,-1,S,train,Johnson,Mr,LINE,-1,0,3,4
+599,0,3,male,-1,0,0,2664,7.225,-1,C,train,Boulos,Mr,,2664,0,1,1
+600,1,1,male,49,1,0,PC 17485,56.9292,A,C,train,Duff Gordon,Sir,PC,17485,1,2,2
+601,1,2,female,24,2,1,243847,27,-1,S,train,Jacobsohn,Mrs,,243847,1,2,2
+602,0,3,male,-1,0,0,349214,7.8958,-1,S,train,Slabenoff,Mr,,349214,0,1,1
+603,0,1,male,-1,0,0,113796,42.4,-1,S,train,Harrington,Mr,,113796,0,1,2
+604,0,3,male,44,0,0,364511,8.05,-1,S,train,Torber,Mr,,364511,0,1,1
+605,1,1,male,35,0,0,111426,26.55,-1,C,train,Homer,Mr,,111426,0,1,1
+606,0,3,male,36,1,0,349910,15.55,-1,S,train,Lindell,Mr,,349910,1,2,2
+607,0,3,male,30,0,0,349246,7.8958,-1,S,train,Karaic,Mr,,349246,0,1,1
+608,1,1,male,27,0,0,113804,30.5,-1,S,train,Daniel,Mr,,113804,0,1,1
+609,1,2,female,22,1,2,SC/Paris 2123,41.5792,-1,C,train,Laroche,Mrs,SCParis,2123,1,4,4
+610,1,1,female,40,0,0,PC 17582,153.4625,C,S,train,Shutes,Miss,PC,17582,0,1,3
+611,0,3,female,39,1,5,347082,31.275,-1,S,train,Andersson,Mrs,,347082,1,9,7
+612,0,3,male,-1,0,0,SOTON/O.Q. 3101305,7.05,-1,S,train,Jardin,Mr,SOTONOQ,3101305,0,1,1
+613,1,3,female,-1,1,0,367230,15.5,-1,Q,train,Murphy,Miss,,367230,1,2,2
+614,0,3,male,-1,0,0,370377,7.75,-1,Q,train,Horgan,Mr,,370377,0,1,1
+615,0,3,male,35,0,0,364512,8.05,-1,S,train,Brocklebank,Mr,,364512,0,1,1
+616,1,2,female,24,1,2,220845,65,-1,S,train,Herman,Miss,,220845,1,4,5
+617,0,3,male,34,1,1,347080,14.4,-1,S,train,Danbom,Mr,,347080,1,3,3
+618,0,3,female,26,1,0,A/5. 3336,16.1,-1,S,train,Lobb,Mrs,A,5,1,2,28
+619,1,2,female,4,2,1,230136,39,F,S,train,Becker,Miss,,230136,1,4,4
+620,0,2,male,26,0,0,31028,10.5,-1,S,train,Gavey,Mr,,31028,0,1,1
+621,0,3,male,27,1,0,2659,14.4542,-1,C,train,Yasbeck,Mr,,2659,1,2,2
+622,1,1,male,42,1,0,11753,52.5542,D,S,train,Kimball,Mr,,11753,1,2,2
+623,1,3,male,20,1,1,2653,15.7417,-1,C,train,Nakid,Mr,,2653,1,3,3
+624,0,3,male,21,0,0,350029,7.8542,-1,S,train,Hansen,Mr,,350029,0,1,1
+625,0,3,male,21,0,0,54636,16.1,-1,S,train,Bowen,Mr,,54636,0,1,2
+626,0,1,male,61,0,0,36963,32.3208,D,S,train,Sutton,Mr,,36963,0,1,1
+627,0,2,male,57,0,0,219533,12.35,-1,Q,train,Kirkland,Rev,,219533,0,1,1
+628,1,1,female,21,0,0,13502,77.9583,D,S,train,Longley,Miss,,13502,0,1,3
+629,0,3,male,26,0,0,349224,7.8958,-1,S,train,Bostandyeff,Mr,,349224,0,1,1
+630,0,3,male,-1,0,0,334912,7.7333,-1,Q,train,O'Connell,Mr,,334912,0,1,1
+631,1,1,male,80,0,0,27042,30,A,S,train,Barkworth,Mr,,27042,0,1,1
+632,0,3,male,51,0,0,347743,7.0542,-1,S,train,Lundahl,Mr,,347743,0,1,1
+633,1,1,male,32,0,0,13214,30.5,B,C,train,Stahelin-Maeglin,Dr,,13214,0,1,1
+634,0,1,male,-1,0,0,112052,0,-1,S,train,Parr,Mr,,112052,0,1,1
+635,0,3,female,9,3,2,347088,27.9,-1,S,train,Skoog,Miss,,347088,1,6,6
+636,1,2,female,28,0,0,237668,13,-1,S,train,Davis,Miss,,237668,0,1,1
+637,0,3,male,32,0,0,STON/O 2. 3101292,7.925,-1,S,train,Leinonen,Mr,STONO,2,0,1,27
+638,0,2,male,31,1,1,C.A. 31921,26.25,-1,S,train,Collyer,Mr,CA,31921,1,3,3
+639,0,3,female,41,0,5,3101295,39.6875,-1,S,train,Panula,Mrs,,3101295,1,6,7
+640,0,3,male,-1,1,0,376564,16.1,-1,S,train,Thorneycroft,Mr,,376564,1,2,2
+641,0,3,male,20,0,0,350050,7.8542,-1,S,train,Jensen,Mr,,350050,0,2,1
+642,1,1,female,24,0,0,PC 17477,69.3,B,C,train,Sagesser,Mlle,PC,17477,0,1,2
+643,0,3,female,2,3,2,347088,27.9,-1,S,train,Skoog,Miss,,347088,1,6,6
+644,1,3,male,-1,0,0,1601,56.4958,-1,S,train,Foo,Mr,,1601,0,1,8
+645,1,3,female,0.75,2,1,2666,19.2583,-1,C,train,Baclini,Miss,,2666,1,4,4
+646,1,1,male,48,1,0,PC 17572,76.7292,D,C,train,Harper,Mr,PC,17572,1,2,3
+647,0,3,male,19,0,0,349231,7.8958,-1,S,train,Cor,Mr,,349231,0,3,1
+648,1,1,male,56,0,0,13213,35.5,A,C,train,Simonius-Blumer,Col,,13213,0,1,1
+649,0,3,male,-1,0,0,S.O./P.P. 751,7.55,-1,S,train,Willey,Mr,SOPP,751,0,1,2
+650,1,3,female,23,0,0,CA. 2314,7.55,-1,S,train,Stanley,Miss,CA,2314,0,2,1
+651,0,3,male,-1,0,0,349221,7.8958,-1,S,train,Mitkoff,Mr,,349221,0,1,1
+652,1,2,female,18,0,1,231919,23,-1,S,train,Doling,Miss,,231919,1,2,2
+653,0,3,male,21,0,0,8475,8.4333,-1,S,train,Kalvik,Mr,,8475,0,1,1
+654,1,3,female,-1,0,0,330919,7.8292,-1,Q,train,O'Leary,Miss,,330919,0,1,1
+655,0,3,female,18,0,0,365226,6.75,-1,Q,train,Hegarty,Miss,,365226,0,1,1
+656,0,2,male,24,2,0,S.O.C. 14879,73.5,-1,S,train,Hickman,Mr,SOC,14879,1,3,7
+657,0,3,male,-1,0,0,349223,7.8958,-1,S,train,Radeff,Mr,,349223,0,1,1
+658,0,3,female,32,1,1,364849,15.5,-1,Q,train,Bourke,Mrs,,364849,1,3,2
+659,0,2,male,23,0,0,29751,13,-1,S,train,Eitemiller,Mr,,29751,0,1,1
+660,0,1,male,58,0,2,35273,113.275,D,C,train,Newell,Mr,,35273,1,3,3
+661,1,1,male,50,2,0,PC 17611,133.65,-1,S,train,Frauenthal,Dr,PC,17611,1,2,2
+662,0,3,male,40,0,0,2623,7.225,-1,C,train,Badt,Mr,,2623,0,1,1
+663,0,1,male,47,0,0,5727,25.5875,E,S,train,Colley,Mr,,5727,0,1,1
+664,0,3,male,36,0,0,349210,7.4958,-1,S,train,Coleff,Mr,,349210,0,2,1
+665,1,3,male,20,1,0,STON/O 2. 3101285,7.925,-1,S,train,Lindqvist,Mr,STONO,2,1,1,27
+666,0,2,male,32,2,0,S.O.C. 14879,73.5,-1,S,train,Hickman,Mr,SOC,14879,1,3,7
+667,0,2,male,25,0,0,234686,13,-1,S,train,Butler,Mr,,234686,0,1,1
+668,0,3,male,-1,0,0,312993,7.775,-1,S,train,Rommetvedt,Mr,,312993,0,1,1
+669,0,3,male,43,0,0,A/5 3536,8.05,-1,S,train,Cook,Mr,A,5,0,1,28
+670,1,1,female,-1,1,0,19996,52,C,S,train,Taylor,Mrs,,19996,1,2,2
+671,1,2,female,40,1,1,29750,39,-1,S,train,Brown,Mrs,,29750,1,3,3
+672,0,1,male,31,1,0,F.C. 12750,52,B,S,train,Davidson,Mr,FC,12750,1,2,2
+673,0,2,male,70,0,0,C.A. 24580,10.5,-1,S,train,Mitchell,Mr,CA,24580,0,1,1
+674,1,2,male,31,0,0,244270,13,-1,S,train,Wilhelms,Mr,,244270,0,1,1
+675,0,2,male,-1,0,0,239856,0,-1,S,train,Watson,Mr,,239856,0,1,1
+676,0,3,male,18,0,0,349912,7.775,-1,S,train,Edvardsson,Mr,,349912,0,1,1
+677,0,3,male,24.5,0,0,342826,8.05,-1,S,train,Sawyer,Mr,,342826,0,1,1
+678,1,3,female,18,0,0,4138,9.8417,-1,S,train,Turja,Miss,,4138,0,1,1
+679,0,3,female,43,1,6,CA 2144,46.9,-1,S,train,Goodwin,Mrs,CA,2144,1,8,8
+680,1,1,male,36,0,1,PC 17755,512.3292,B,C,train,Cardeza,Mr,PC,17755,1,2,4
+681,0,3,female,-1,0,0,330935,8.1375,-1,Q,train,Peters,Miss,,330935,0,1,1
+682,1,1,male,27,0,0,PC 17572,76.7292,D,C,train,Hassab,Mr,PC,17572,0,1,3
+683,0,3,male,20,0,0,6563,9.225,-1,S,train,Olsvigen,Mr,,6563,0,1,1
+684,0,3,male,14,5,2,CA 2144,46.9,-1,S,train,Goodwin,Mr,CA,2144,1,8,8
+685,0,2,male,60,1,1,29750,39,-1,S,train,Brown,Mr,,29750,1,3,3
+686,0,2,male,25,1,2,SC/Paris 2123,41.5792,-1,C,train,Laroche,Mr,SCParis,2123,1,4,4
+687,0,3,male,14,4,1,3101295,39.6875,-1,S,train,Panula,Mr,,3101295,1,6,7
+688,0,3,male,19,0,0,349228,10.1708,-1,S,train,Dakic,Mr,,349228,0,1,1
+689,0,3,male,18,0,0,350036,7.7958,-1,S,train,Fischer,Mr,,350036,0,1,1
+690,1,1,female,15,0,1,24160,211.3375,B,S,train,Madill,Miss,,24160,1,1,4
+691,1,1,male,31,1,0,17474,57,B,S,train,Dick,Mr,,17474,1,2,3
+692,1,3,female,4,0,1,349256,13.4167,-1,C,train,Karun,Miss,,349256,1,2,2
+693,1,3,male,-1,0,0,1601,56.4958,-1,S,train,Lam,Mr,,1601,0,2,8
+694,0,3,male,25,0,0,2672,7.225,-1,C,train,Saad,Mr,,2672,0,2,1
+695,0,1,male,60,0,0,113800,26.55,-1,S,train,Weir,Col,,113800,0,1,1
+696,0,2,male,52,0,0,248731,13.5,-1,S,train,Chapman,Mr,,248731,0,1,1
+697,0,3,male,44,0,0,363592,8.05,-1,S,train,Kelly,Mr,,363592,0,1,1
+698,1,3,female,-1,0,0,35852,7.7333,-1,Q,train,Mullens,Miss,,35852,0,1,1
+699,0,1,male,49,1,1,17421,110.8833,C,C,train,Thayer,Mr,,17421,1,3,4
+700,0,3,male,42,0,0,348121,7.65,F,S,train,Humblen,Mr,,348121,0,1,1
+701,1,1,female,18,1,0,PC 17757,227.525,C,C,train,Astor,Mrs,PC,17757,1,2,5
+702,1,1,male,35,0,0,PC 17475,26.2875,E,S,train,Silverthorne,Mr,PC,17475,0,1,2
+703,0,3,female,18,0,1,2691,14.4542,-1,C,train,Barbara,Miss,,2691,1,2,2
+704,0,3,male,25,0,0,36864,7.7417,-1,Q,train,Gallagher,Mr,,36864,0,1,1
+705,0,3,male,26,1,0,350025,7.8542,-1,S,train,Hansen,Mr,,350025,1,3,1
+706,0,2,male,39,0,0,250655,26,-1,S,train,Morley,Mr,,250655,0,1,2
+707,1,2,female,45,0,0,223596,13.5,-1,S,train,Kelly,Mrs,,223596,0,1,1
+708,1,1,male,42,0,0,PC 17476,26.2875,E,S,train,Calderhead,Mr,PC,17476,0,1,1
+709,1,1,female,22,0,0,113781,151.55,-1,S,train,Cleaver,Miss,,113781,0,1,6
+710,1,3,male,-1,1,1,2661,15.2458,-1,C,train,Moubarek,Master,,2661,1,3,3
+711,1,1,female,24,0,0,PC 17482,49.5042,C,C,train,Mayne,Mlle,PC,17482,0,1,1
+712,0,1,male,-1,0,0,113028,26.55,C,S,train,Klaber,Mr,,113028,0,1,1
+713,1,1,male,48,1,0,19996,52,C,S,train,Taylor,Mr,,19996,1,2,2
+714,0,3,male,29,0,0,7545,9.4833,-1,S,train,Larsson,Mr,,7545,0,2,1
+715,0,2,male,52,0,0,250647,13,-1,S,train,Greenberg,Mr,,250647,0,1,2
+716,0,3,male,19,0,0,348124,7.65,F,S,train,Soholt,Mr,,348124,0,1,1
+717,1,1,female,38,0,0,PC 17757,227.525,C,C,train,Endres,Miss,PC,17757,0,1,5
+718,1,2,female,27,0,0,34218,10.5,E,S,train,Troutt,Miss,,34218,0,1,1
+719,0,3,male,-1,0,0,36568,15.5,-1,Q,train,McEvoy,Mr,,36568,0,1,2
+720,0,3,male,33,0,0,347062,7.775,-1,S,train,Johnson,Mr,,347062,0,3,1
+721,1,2,female,6,0,1,248727,33,-1,S,train,Harper,Miss,,248727,1,2,3
+722,0,3,male,17,1,0,350048,7.0542,-1,S,train,Jensen,Mr,,350048,1,1,1
+723,0,2,male,34,0,0,12233,13,-1,S,train,Gillespie,Mr,,12233,0,1,1
+724,0,2,male,50,0,0,250643,13,-1,S,train,Hodges,Mr,,250643,0,1,1
+725,1,1,male,27,1,0,113806,53.1,E,S,train,Chambers,Mr,,113806,1,2,2
+726,0,3,male,20,0,0,315094,8.6625,-1,S,train,Oreskovic,Mr,,315094,0,3,1
+727,1,2,female,30,3,0,31027,21,-1,S,train,Renouf,Mrs,,31027,1,2,2
+728,1,3,female,-1,0,0,36866,7.7375,-1,Q,train,Mannion,Miss,,36866,0,1,1
+729,0,2,male,25,1,0,236853,26,-1,S,train,Bryhl,Mr,,236853,1,2,2
+730,0,3,female,25,1,0,STON/O2. 3101271,7.925,-1,S,train,Ilmakangas,Miss,STONO,2,1,2,27
+731,1,1,female,29,0,0,24160,211.3375,B,S,train,Allen,Miss,,24160,0,1,4
+732,0,3,male,11,0,0,2699,18.7875,-1,C,train,Hassan,Mr,,2699,0,1,2
+733,0,2,male,-1,0,0,239855,0,-1,S,train,Knight,Mr,,239855,0,1,1
+734,0,2,male,23,0,0,28425,13,-1,S,train,Berriman,Mr,,28425,0,1,1
+735,0,2,male,23,0,0,233639,13,-1,S,train,Troupiansky,Mr,,233639,0,1,1
+736,0,3,male,28.5,0,0,54636,16.1,-1,S,train,Williams,Mr,,54636,0,2,2
+737,0,3,female,48,1,3,W./C. 6608,34.375,-1,S,train,Ford,Mrs,WC,6608,1,5,5
+738,1,1,male,35,0,0,PC 17755,512.3292,B,C,train,Lesurer,Mr,PC,17755,0,1,4
+739,0,3,male,-1,0,0,349201,7.8958,-1,S,train,Ivanoff,Mr,,349201,0,1,1
+740,0,3,male,-1,0,0,349218,7.8958,-1,S,train,Nankoff,Mr,,349218,0,1,1
+741,1,1,male,-1,0,0,16988,30,D,S,train,Hawksford,Mr,,16988,0,1,1
+742,0,1,male,36,1,0,19877,78.85,C,S,train,Cavendish,Mr,,19877,1,2,3
+743,1,1,female,21,2,2,PC 17608,262.375,B,C,train,Ryerson,Miss,PC,17608,1,5,7
+744,0,3,male,24,1,0,376566,16.1,-1,S,train,McNamee,Mr,,376566,1,2,2
+745,1,3,male,31,0,0,STON/O 2. 3101288,7.925,-1,S,train,Stranden,Mr,STONO,2,0,1,27
+746,0,1,male,70,1,1,WE/P 5735,71,B,S,train,Crosby,Capt,WEP,5735,1,3,2
+747,0,3,male,16,1,1,C.A. 2673,20.25,-1,S,train,Abbott,Mr,CA,2673,1,3,4
+748,1,2,female,30,0,0,250648,13,-1,S,train,Sinkkonen,Miss,,250648,0,1,1
+749,0,1,male,19,1,0,113773,53.1,D,S,train,Marvin,Mr,,113773,1,2,2
+750,0,3,male,31,0,0,335097,7.75,-1,Q,train,Connaghton,Mr,,335097,0,1,1
+751,1,2,female,4,1,1,29103,23,-1,S,train,Wells,Miss,,29103,1,3,3
+752,1,3,male,6,0,1,392096,12.475,E,S,train,Moor,Master,,392096,1,2,2
+753,0,3,male,33,0,0,345780,9.5,-1,S,train,Vande Velde,Mr,,345780,0,1,1
+754,0,3,male,23,0,0,349204,7.8958,-1,S,train,Jonkoff,Mr,,349204,0,1,1
+755,1,2,female,48,1,2,220845,65,-1,S,train,Herman,Mrs,,220845,1,4,5
+756,1,2,male,0.67,1,1,250649,14.5,-1,S,train,Hamalainen,Master,,250649,1,2,2
+757,0,3,male,28,0,0,350042,7.7958,-1,S,train,Carlsson,Mr,,350042,0,2,1
+758,0,2,male,18,0,0,29108,11.5,-1,S,train,Bailey,Mr,,29108,0,1,1
+759,0,3,male,34,0,0,363294,8.05,-1,S,train,Theobald,Mr,,363294,0,1,1
+760,1,1,female,33,0,0,110152,86.5,B,S,train,Rothes,the Countess,,110152,0,1,3
+761,0,3,male,-1,0,0,358585,14.5,-1,S,train,Garfirth,Mr,,358585,0,1,2
+762,0,3,male,41,0,0,SOTON/O2 3101272,7.125,-1,S,train,Nirva,Mr,SOTONO,2,0,1,27
+763,1,3,male,20,0,0,2663,7.2292,-1,C,train,Barah,Mr,,2663,0,1,1
+764,1,1,female,36,1,2,113760,120,B,S,train,Carter,Mrs,,113760,1,4,4
+765,0,3,male,16,0,0,347074,7.775,-1,S,train,Eklund,Mr,,347074,0,1,1
+766,1,1,female,51,1,0,13502,77.9583,D,S,train,Hogeboom,Mrs,,13502,1,1,3
+767,0,1,male,-1,0,0,112379,39.6,-1,C,train,Brewe,Dr,,112379,0,1,1
+768,0,3,female,30.5,0,0,364850,7.75,-1,Q,train,Mangan,Miss,,364850,0,1,1
+769,0,3,male,-1,1,0,371110,24.15,-1,Q,train,Moran,Mr,,371110,1,2,3
+770,0,3,male,32,0,0,8471,8.3625,-1,S,train,Gronnestad,Mr,,8471,0,1,1
+771,0,3,male,24,0,0,345781,9.5,-1,S,train,Lievens,Mr,,345781,0,1,1
+772,0,3,male,48,0,0,350047,7.8542,-1,S,train,Jensen,Mr,,350047,0,2,1
+773,0,2,female,57,0,0,S.O./P.P. 3,10.5,E,S,train,Mack,Mrs,SOPP,3,0,1,4
+774,0,3,male,-1,0,0,2674,7.225,-1,C,train,Elias,Mr,,2674,0,1,1
+775,1,2,female,54,1,3,29105,23,-1,S,train,Hocking,Mrs,,29105,1,3,2
+776,0,3,male,18,0,0,347078,7.75,-1,S,train,Myhrman,Mr,,347078,0,1,1
+777,0,3,male,-1,0,0,383121,7.75,F,Q,train,Tobin,Mr,,383121,0,1,1
+778,1,3,female,5,0,0,364516,12.475,-1,S,train,Emanuel,Miss,,364516,0,1,2
+779,0,3,male,-1,0,0,36865,7.7375,-1,Q,train,Kilgannon,Mr,,36865,0,1,1
+780,1,1,female,43,0,1,24160,211.3375,B,S,train,Robert,Mrs,,24160,1,1,4
+781,1,3,female,13,0,0,2687,7.2292,-1,C,train,Ayoub,Miss,,2687,0,1,1
+782,1,1,female,17,1,0,17474,57,B,S,train,Dick,Mrs,,17474,1,2,3
+783,0,1,male,29,0,0,113501,30,D,S,train,Long,Mr,,113501,0,1,1
+784,0,3,male,-1,1,2,W./C. 6607,23.45,-1,S,train,Johnston,Mr,WC,6607,1,4,4
+785,0,3,male,25,0,0,SOTON/O.Q. 3101312,7.05,-1,S,train,Ali,Mr,SOTONOQ,3101312,0,2,1
+786,0,3,male,25,0,0,374887,7.25,-1,S,train,Harmer,Mr,,374887,0,1,1
+787,1,3,female,18,0,0,3101265,7.4958,-1,S,train,Sjoblom,Miss,,3101265,0,1,1
+788,0,3,male,8,4,1,382652,29.125,-1,Q,train,Rice,Master,,382652,1,6,6
+789,1,3,male,1,1,2,C.A. 2315,20.575,-1,S,train,Dean,Master,CA,2315,1,4,4
+790,0,1,male,46,0,0,PC 17593,79.2,B,C,train,Guggenheim,Mr,PC,17593,0,1,2
+791,0,3,male,-1,0,0,12460,7.75,-1,Q,train,Keane,Mr,,12460,0,1,1
+792,0,2,male,16,0,0,239865,26,-1,S,train,Gaskell,Mr,,239865,0,1,2
+793,0,3,female,-1,8,2,CA. 2343,69.55,-1,S,train,Sage,Miss,CA,2343,1,11,11
+794,0,1,male,-1,0,0,PC 17600,30.6958,-1,C,train,Hoyt,Mr,PC,17600,0,1,1
+795,0,3,male,25,0,0,349203,7.8958,-1,S,train,Dantcheff,Mr,,349203,0,1,1
+796,0,2,male,39,0,0,28213,13,-1,S,train,Otter,Mr,,28213,0,1,1
+797,1,1,female,49,0,0,17465,25.9292,D,S,train,Leader,Dr,,17465,0,1,1
+798,1,3,female,31,0,0,349244,8.6833,-1,S,train,Osman,Mrs,,349244,0,1,1
+799,0,3,male,30,0,0,2685,7.2292,-1,C,train,Ibrahim Shawah,Mr,,2685,0,1,1
+800,0,3,female,30,1,1,345773,24.15,-1,S,train,Van Impe,Mrs,,345773,1,3,3
+801,0,2,male,34,0,0,250647,13,-1,S,train,Ponesell,Mr,,250647,0,1,2
+802,1,2,female,31,1,1,C.A. 31921,26.25,-1,S,train,Collyer,Mrs,CA,31921,1,3,3
+803,1,1,male,11,1,2,113760,120,B,S,train,Carter,Master,,113760,1,4,4
+804,1,3,male,0.42,0,1,2625,8.5167,-1,C,train,Thomas,Master,,2625,1,3,2
+805,1,3,male,27,0,0,347089,6.975,-1,S,train,Hedman,Mr,,347089,0,1,1
+806,0,3,male,31,0,0,347063,7.775,-1,S,train,Johansson,Mr,,347063,0,4,1
+807,0,1,male,39,0,0,112050,0,A,S,train,Andrews,Mr,,112050,0,1,1
+808,0,3,female,18,0,0,347087,7.775,-1,S,train,Pettersson,Miss,,347087,0,1,1
+809,0,2,male,39,0,0,248723,13,-1,S,train,Meyer,Mr,,248723,0,1,1
+810,1,1,female,33,1,0,113806,53.1,E,S,train,Chambers,Mrs,,113806,1,2,2
+811,0,3,male,26,0,0,3474,7.8875,-1,S,train,Alexander,Mr,,3474,0,1,1
+812,0,3,male,39,0,0,A/4 48871,24.15,-1,S,train,Lester,Mr,A,4,0,1,13
+813,0,2,male,35,0,0,28206,10.5,-1,S,train,Slemen,Mr,,28206,0,1,1
+814,0,3,female,6,4,2,347082,31.275,-1,S,train,Andersson,Miss,,347082,1,9,7
+815,0,3,male,30.5,0,0,364499,8.05,-1,S,train,Tomlin,Mr,,364499,0,1,1
+816,0,1,male,-1,0,0,112058,0,B,S,train,Fry,Mr,,112058,0,1,2
+817,0,3,female,23,0,0,STON/O2. 3101290,7.925,-1,S,train,Heininen,Miss,STONO,2,0,1,27
+818,0,2,male,31,1,1,S.C./PARIS 2079,37.0042,-1,C,train,Mallet,Mr,SCPARIS,2079,1,3,3
+819,0,3,male,43,0,0,C 7075,6.45,-1,S,train,Holm,Mr,C,7075,0,1,1
+820,0,3,male,10,3,2,347088,27.9,-1,S,train,Skoog,Master,,347088,1,6,6
+821,1,1,female,52,1,1,12749,93.5,B,S,train,Hays,Mrs,,12749,1,2,4
+822,1,3,male,27,0,0,315098,8.6625,-1,S,train,Lulic,Mr,,315098,0,1,1
+823,0,1,male,38,0,0,19972,0,-1,S,train,Reuchlin,Jonkheer,,19972,0,1,1
+824,1,3,female,27,0,1,392096,12.475,E,S,train,Moor,Mrs,,392096,1,2,2
+825,0,3,male,2,4,1,3101295,39.6875,-1,S,train,Panula,Master,,3101295,1,6,7
+826,0,3,male,-1,0,0,368323,6.95,-1,Q,train,Flynn,Mr,,368323,0,2,1
+827,0,3,male,-1,0,0,1601,56.4958,-1,S,train,Lam,Mr,,1601,0,2,8
+828,1,2,male,1,0,2,S.C./PARIS 2079,37.0042,-1,C,train,Mallet,Master,SCPARIS,2079,1,3,3
+829,1,3,male,-1,0,0,367228,7.75,-1,Q,train,McCormack,Mr,,367228,0,1,1
+830,1,1,female,62,0,0,113572,80,B,C,train,Stone,Mrs,,113572,0,1,2
+831,1,3,female,15,1,0,2659,14.4542,-1,C,train,Yasbeck,Mrs,,2659,1,2,2
+832,1,2,male,0.83,1,1,29106,18.75,-1,S,train,Richards,Master,,29106,1,3,3
+833,0,3,male,-1,0,0,2671,7.2292,-1,C,train,Saad,Mr,,2671,0,2,1
+834,0,3,male,23,0,0,347468,7.8542,-1,S,train,Augustsson,Mr,,347468,0,1,1
+835,0,3,male,18,0,0,2223,8.3,-1,S,train,Allum,Mr,,2223,0,1,1
+836,1,1,female,39,1,1,PC 17756,83.1583,E,C,train,Compton,Miss,PC,17756,1,3,3
+837,0,3,male,21,0,0,315097,8.6625,-1,S,train,Pasic,Mr,,315097,0,1,1
+838,0,3,male,-1,0,0,392092,8.05,-1,S,train,Sirota,Mr,,392092,0,1,1
+839,1,3,male,32,0,0,1601,56.4958,-1,S,train,Chip,Mr,,1601,0,1,8
+840,1,1,male,-1,0,0,11774,29.7,C,C,train,Marechal,Mr,,11774,0,1,1
+841,0,3,male,20,0,0,SOTON/O2 3101287,7.925,-1,S,train,Alhomaki,Mr,SOTONO,2,0,1,27
+842,0,2,male,16,0,0,S.O./P.P. 3,10.5,-1,S,train,Mudd,Mr,SOPP,3,0,1,4
+843,1,1,female,30,0,0,113798,31,-1,C,train,Serepeca,Miss,,113798,0,1,2
+844,0,3,male,34.5,0,0,2683,6.4375,-1,C,train,Lemberopolous,Mr,,2683,0,1,1
+845,0,3,male,17,0,0,315090,8.6625,-1,S,train,Culumovic,Mr,,315090,0,1,1
+846,0,3,male,42,0,0,C.A. 5547,7.55,-1,S,train,Abbing,Mr,CA,5547,0,1,1
+847,0,3,male,-1,8,2,CA. 2343,69.55,-1,S,train,Sage,Mr,CA,2343,1,11,11
+848,0,3,male,35,0,0,349213,7.8958,-1,C,train,Markoff,Mr,,349213,0,1,1
+849,0,2,male,28,0,1,248727,33,-1,S,train,Harper,Rev,,248727,1,2,3
+850,1,1,female,-1,1,0,17453,89.1042,C,C,train,Goldenberg,Mrs,,17453,1,2,2
+851,0,3,male,4,4,2,347082,31.275,-1,S,train,Andersson,Master,,347082,1,9,7
+852,0,3,male,74,0,0,347060,7.775,-1,S,train,Svensson,Mr,,347060,0,3,1
+853,0,3,female,9,1,1,2678,15.2458,-1,C,train,Boulos,Miss,,2678,1,3,3
+854,1,1,female,16,0,1,PC 17592,39.4,D,S,train,Lines,Miss,PC,17592,1,2,2
+855,0,2,female,44,1,0,244252,26,-1,S,train,Carter,Mrs,,244252,1,2,2
+856,1,3,female,18,0,1,392091,9.35,-1,S,train,Aks,Mrs,,392091,1,2,2
+857,1,1,female,45,1,1,36928,164.8667,-1,S,train,Wick,Mrs,,36928,1,3,4
+858,1,1,male,51,0,0,113055,26.55,E,S,train,Daly,Mr,,113055,0,1,1
+859,1,3,female,24,0,3,2666,19.2583,-1,C,train,Baclini,Mrs,,2666,1,4,4
+860,0,3,male,-1,0,0,2629,7.2292,-1,C,train,Razi,Mr,,2629,0,1,1
+861,0,3,male,41,2,0,350026,14.1083,-1,S,train,Hansen,Mr,,350026,1,3,2
+862,0,2,male,21,1,0,28134,11.5,-1,S,train,Giles,Mr,,28134,1,2,1
+863,1,1,female,48,0,0,17466,25.9292,D,S,train,Swift,Mrs,,17466,0,1,1
+864,0,3,female,-1,8,2,CA. 2343,69.55,-1,S,train,Sage,Miss,CA,2343,1,11,11
+865,0,2,male,24,0,0,233866,13,-1,S,train,Gill,Mr,,233866,0,1,1
+866,1,2,female,42,0,0,236852,13,-1,S,train,Bystrom,Mrs,,236852,0,1,1
+867,1,2,female,27,1,0,SC/PARIS 2149,13.8583,-1,C,train,Duran y More,Miss,SCPARIS,2149,1,2,1
+868,0,1,male,31,0,0,PC 17590,50.4958,A,S,train,Roebling,Mr,PC,17590,0,1,1
+869,0,3,male,-1,0,0,345777,9.5,-1,S,train,van Melkebeke,Mr,,345777,0,1,1
+870,1,3,male,4,1,1,347742,11.1333,-1,S,train,Johnson,Master,,347742,1,3,3
+871,0,3,male,26,0,0,349248,7.8958,-1,S,train,Balkic,Mr,,349248,0,1,1
+872,1,1,female,47,1,1,11751,52.5542,D,S,train,Beckwith,Mrs,,11751,1,2,2
+873,0,1,male,33,0,0,695,5,B,S,train,Carlsson,Mr,,695,0,1,1
+874,0,3,male,47,0,0,345765,9,-1,S,train,Vander Cruyssen,Mr,,345765,0,1,1
+875,1,2,female,28,1,0,P/PP 3381,24,-1,C,train,Abelson,Mrs,PPP,3381,1,2,2
+876,1,3,female,15,0,0,2667,7.225,-1,C,train,Najib,Miss,,2667,0,1,1
+877,0,3,male,20,0,0,7534,9.8458,-1,S,train,Gustafsson,Mr,,7534,0,2,2
+878,0,3,male,19,0,0,349212,7.8958,-1,S,train,Petroff,Mr,,349212,0,2,1
+879,0,3,male,-1,0,0,349217,7.8958,-1,S,train,Laleff,Mr,,349217,0,1,1
+880,1,1,female,56,0,1,11767,83.1583,C,C,train,Potter,Mrs,,11767,1,1,3
+881,1,2,female,25,0,1,230433,26,-1,S,train,Shelley,Mrs,,230433,1,1,2
+882,0,3,male,33,0,0,349257,7.8958,-1,S,train,Markun,Mr,,349257,0,1,1
+883,0,3,female,22,0,0,7552,10.5167,-1,S,train,Dahlberg,Miss,,7552,0,1,1
+884,0,2,male,28,0,0,C.A./SOTON 34068,10.5,-1,S,train,Banfield,Mr,CASOTON,34068,0,1,1
+885,0,3,male,25,0,0,SOTON/OQ 392076,7.05,-1,S,train,Sutehall,Mr,SOTONOQ,392076,0,1,1
+886,0,3,female,39,0,5,382652,29.125,-1,Q,train,Rice,Mrs,,382652,1,6,6
+887,0,2,male,27,0,0,211536,13,-1,S,train,Montvila,Rev,,211536,0,1,1
+888,1,1,female,19,0,0,112053,30,B,S,train,Graham,Miss,,112053,0,1,1
+889,0,3,female,-1,1,2,W./C. 6607,23.45,-1,S,train,Johnston,Miss,WC,6607,1,4,4
+890,1,1,male,26,0,0,111369,30,C,C,train,Behr,Mr,,111369,0,1,1
+891,0,3,male,32,0,0,370376,7.75,-1,Q,train,Dooley,Mr,,370376,0,1,1
+892,NA,3,male,34.5,0,0,330911,7.8292,-1,Q,test,Kelly,Mr,,330911,0,3,1
+893,NA,3,female,47,1,0,363272,7,-1,S,test,Wilkes,Mrs,,363272,1,1,1
+894,NA,2,male,62,0,0,240276,9.6875,-1,Q,test,Myles,Mr,,240276,0,1,1
+895,NA,3,male,27,0,0,315154,8.6625,-1,S,test,Wirz,Mr,,315154,0,1,1
+896,NA,3,female,22,1,1,3101298,12.2875,-1,S,test,Hirvonen,Mrs,,3101298,1,2,2
+897,NA,3,male,14,0,0,7538,9.225,-1,S,test,Svensson,Mr,,7538,0,3,1
+898,NA,3,female,30,0,0,330972,7.6292,-1,Q,test,Connolly,Miss,,330972,0,2,1
+899,NA,2,male,26,1,1,248738,29,-1,S,test,Caldwell,Mr,,248738,1,3,3
+900,NA,3,female,18,0,0,2657,7.2292,-1,C,test,Abrahim,Mrs,,2657,0,1,1
+901,NA,3,male,21,2,0,A/4 48871,24.15,-1,S,test,Davies,Mr,A,4,1,3,13
+902,NA,3,male,-1,0,0,349220,7.8958,-1,S,test,Ilieff,Mr,,349220,0,1,1
+903,NA,1,male,46,0,0,694,26,-1,S,test,Jones,Mr,,694,0,1,1
+904,NA,1,female,23,1,0,21228,82.2667,B,S,test,Snyder,Mrs,,21228,1,2,2
+905,NA,2,male,63,1,0,24065,26,-1,S,test,Howard,Mr,,24065,1,2,2
+906,NA,1,female,47,1,0,W.E.P. 5734,61.175,E,S,test,Chaffee,Mrs,WEP,5734,1,2,2
+907,NA,2,female,24,1,0,SC/PARIS 2167,27.7208,-1,C,test,del Carlo,Mrs,SCPARIS,2167,1,2,2
+908,NA,2,male,35,0,0,233734,12.35,-1,Q,test,Keane,Mr,,233734,0,2,1
+909,NA,3,male,21,0,0,2692,7.225,-1,C,test,Assaf,Mr,,2692,0,1,1
+910,NA,3,female,27,1,0,STON/O2. 3101270,7.925,-1,S,test,Ilmakangas,Miss,STONO,2,1,2,27
+911,NA,3,female,45,0,0,2696,7.225,-1,C,test,Assaf Khalil,Mrs,,2696,0,1,1
+912,NA,1,male,55,1,0,PC 17603,59.4,-1,C,test,Rothschild,Mr,PC,17603,1,2,2
+913,NA,3,male,9,0,1,C 17368,3.1708,-1,S,test,Olsen,Master,C,17368,1,2,1
+914,NA,1,female,-1,0,0,PC 17598,31.6833,-1,S,test,Flegenheim,Mrs,PC,17598,0,1,1
+915,NA,1,male,21,0,1,PC 17597,61.3792,-1,C,test,Williams,Mr,PC,17597,1,2,2
+916,NA,1,female,48,1,3,PC 17608,262.375,B,C,test,Ryerson,Mrs,PC,17608,1,5,7
+917,NA,3,male,50,1,0,A/5. 3337,14.5,-1,S,test,Robins,Mr,A,5,1,2,28
+918,NA,1,female,22,0,1,113509,61.9792,B,C,test,Ostby,Miss,,113509,1,2,2
+919,NA,3,male,22.5,0,0,2698,7.225,-1,C,test,Daher,Mr,,2698,0,1,1
+920,NA,1,male,41,0,0,113054,30.5,A,S,test,Brady,Mr,,113054,0,1,1
+921,NA,3,male,-1,2,0,2662,21.6792,-1,C,test,Samaan,Mr,,2662,1,3,3
+922,NA,2,male,50,1,0,SC/AH 3085,26,-1,S,test,Louch,Mr,SCAH,3085,1,2,2
+923,NA,2,male,24,2,0,C.A. 31029,31.5,-1,S,test,Jefferys,Mr,CA,31029,1,2,3
+924,NA,3,female,33,1,2,C.A. 2315,20.575,-1,S,test,Dean,Mrs,CA,2315,1,4,4
+925,NA,3,female,-1,1,2,W./C. 6607,23.45,-1,S,test,Johnston,Mrs,WC,6607,1,4,4
+926,NA,1,male,30,1,0,13236,57.75,C,C,test,Mock,Mr,,13236,1,1,2
+927,NA,3,male,18.5,0,0,2682,7.2292,-1,C,test,Katavelas,Mr,,2682,0,1,1
+928,NA,3,female,-1,0,0,342712,8.05,-1,S,test,Roth,Miss,,342712,0,1,1
+929,NA,3,female,21,0,0,315087,8.6625,-1,S,test,Cacic,Miss,,315087,0,4,1
+930,NA,3,male,25,0,0,345768,9.5,-1,S,test,Sap,Mr,,345768,0,1,1
+931,NA,3,male,-1,0,0,1601,56.4958,-1,S,test,Hee,Mr,,1601,0,1,8
+932,NA,3,male,39,0,1,349256,13.4167,-1,C,test,Karun,Mr,,349256,1,2,2
+933,NA,1,male,-1,0,0,113778,26.55,D,S,test,Franklin,Mr,,113778,0,1,1
+934,NA,3,male,41,0,0,SOTON/O.Q. 3101263,7.85,-1,S,test,Goldsmith,Mr,SOTONOQ,3101263,0,1,1
+935,NA,2,female,30,0,0,237249,13,-1,S,test,Corbett,Mrs,,237249,0,1,1
+936,NA,1,female,45,1,0,11753,52.5542,D,S,test,Kimball,Mrs,,11753,1,2,2
+937,NA,3,male,25,0,0,STON/O 2. 3101291,7.925,-1,S,test,Peltomaki,Mr,STONO,2,0,1,27
+938,NA,1,male,45,0,0,PC 17594,29.7,A,C,test,Chevre,Mr,PC,17594,0,1,1
+939,NA,3,male,-1,0,0,370374,7.75,-1,Q,test,Shaughnessy,Mr,,370374,0,1,1
+940,NA,1,female,60,0,0,11813,76.2917,D,C,test,Bucknell,Mrs,,11813,0,1,2
+941,NA,3,female,36,0,2,C.A. 37671,15.9,-1,S,test,Coutts,Mrs,CA,37671,1,3,3
+942,NA,1,male,24,1,0,13695,60,C,S,test,Smith,Mr,,13695,1,2,2
+943,NA,2,male,27,0,0,SC/PARIS 2168,15.0333,-1,C,test,Pulbaum,Mr,SCPARIS,2168,0,1,1
+944,NA,2,female,20,2,1,29105,23,-1,S,test,Hocking,Miss,,29105,1,3,2
+945,NA,1,female,28,3,2,19950,263,C,S,test,Fortune,Miss,,19950,1,6,6
+946,NA,2,male,-1,0,0,SC/A.3 2861,15.5792,-1,C,test,Mangiavacchi,Mr,SCA,3,0,1,4
+947,NA,3,male,10,4,1,382652,29.125,-1,Q,test,Rice,Master,,382652,1,6,6
+948,NA,3,male,35,0,0,349230,7.8958,-1,S,test,Cor,Mr,,349230,0,3,1
+949,NA,3,male,25,0,0,348122,7.65,F,S,test,Abelseth,Mr,,348122,0,2,1
+950,NA,3,male,-1,1,0,386525,16.1,-1,S,test,Davison,Mr,,386525,1,2,2
+951,NA,1,female,36,0,0,PC 17608,262.375,B,C,test,Chaudanson,Miss,PC,17608,0,1,7
+952,NA,3,male,17,0,0,349232,7.8958,-1,S,test,Dika,Mr,,349232,0,1,1
+953,NA,2,male,32,0,0,237216,13.5,-1,S,test,McCrae,Mr,,237216,0,1,1
+954,NA,3,male,18,0,0,347090,7.75,-1,S,test,Bjorklund,Mr,,347090,0,1,1
+955,NA,3,female,22,0,0,334914,7.725,-1,Q,test,Bradley,Miss,,334914,0,1,1
+956,NA,1,male,13,2,2,PC 17608,262.375,B,C,test,Ryerson,Master,PC,17608,1,5,7
+957,NA,2,female,-1,0,0,F.C.C. 13534,21,-1,S,test,Corey,Mrs,FCC,13534,0,1,2
+958,NA,3,female,18,0,0,330963,7.8792,-1,Q,test,Burns,Miss,,330963,0,1,1
+959,NA,1,male,47,0,0,113796,42.4,-1,S,test,Moore,Mr,,113796,0,1,2
+960,NA,1,male,31,0,0,2543,28.5375,C,C,test,Tucker,Mr,,2543,0,1,1
+961,NA,1,female,60,1,4,19950,263,C,S,test,Fortune,Mrs,,19950,1,6,6
+962,NA,3,female,24,0,0,382653,7.75,-1,Q,test,Mulvihill,Miss,,382653,0,1,1
+963,NA,3,male,21,0,0,349211,7.8958,-1,S,test,Minkoff,Mr,,349211,0,1,1
+964,NA,3,female,29,0,0,3101297,7.925,-1,S,test,Nieminen,Miss,,3101297,0,1,1
+965,NA,1,male,28.5,0,0,PC 17562,27.7208,D,C,test,Ovies y Rodriguez,Mr,PC,17562,0,1,1
+966,NA,1,female,35,0,0,113503,211.5,C,C,test,Geiger,Miss,,113503,0,1,5
+967,NA,1,male,32.5,0,0,113503,211.5,C,C,test,Keeping,Mr,,113503,0,1,5
+968,NA,3,male,-1,0,0,359306,8.05,-1,S,test,Miles,Mr,,359306,0,1,1
+969,NA,1,female,55,2,0,11770,25.7,C,S,test,Cornell,Mrs,,11770,1,1,1
+970,NA,2,male,30,0,0,248744,13,-1,S,test,Aldworth,Mr,,248744,0,1,1
+971,NA,3,female,24,0,0,368702,7.75,-1,Q,test,Doyle,Miss,,368702,0,1,1
+972,NA,3,male,6,1,1,2678,15.2458,-1,C,test,Boulos,Master,,2678,1,3,3
+973,NA,1,male,67,1,0,PC 17483,221.7792,C,S,test,Straus,Mr,PC,17483,1,2,4
+974,NA,1,male,49,0,0,19924,26,-1,S,test,Case,Mr,,19924,0,1,1
+975,NA,3,male,-1,0,0,349238,7.8958,-1,S,test,Demetri,Mr,,349238,0,1,1
+976,NA,2,male,-1,0,0,240261,10.7083,-1,Q,test,Lamb,Mr,,240261,0,1,1
+977,NA,3,male,-1,1,0,2660,14.4542,-1,C,test,Khalil,Mr,,2660,1,2,2
+978,NA,3,female,27,0,0,330844,7.8792,-1,Q,test,Barry,Miss,,330844,0,1,1
+979,NA,3,female,18,0,0,A/4 31416,8.05,-1,S,test,Badman,Miss,A,4,0,1,13
+980,NA,3,female,-1,0,0,364856,7.75,-1,Q,test,O'Donoghue,Ms,,364856,0,1,1
+981,NA,2,male,2,1,1,29103,23,-1,S,test,Wells,Master,,29103,1,3,3
+982,NA,3,female,22,1,0,347072,13.9,-1,S,test,Dyker,Mrs,,347072,1,2,2
+983,NA,3,male,-1,0,0,345498,7.775,-1,S,test,Pedersen,Mr,,345498,0,1,1
+984,NA,1,female,27,1,2,F.C. 12750,52,B,S,test,Davidson,Mrs,FC,12750,1,2,2
+985,NA,3,male,-1,0,0,376563,8.05,-1,S,test,Guest,Mr,,376563,0,1,1
+986,NA,1,male,25,0,0,13905,26,-1,C,test,Birnbaum,Mr,,13905,0,1,1
+987,NA,3,male,25,0,0,350033,7.7958,-1,S,test,Tenglin,Mr,,350033,0,1,1
+988,NA,1,female,76,1,0,19877,78.85,C,S,test,Cavendish,Mrs,,19877,1,2,3
+989,NA,3,male,29,0,0,STON/O 2. 3101268,7.925,-1,S,test,Makinen,Mr,STONO,2,0,1,27
+990,NA,3,female,20,0,0,347471,7.8542,-1,S,test,Braf,Miss,,347471,0,1,1
+991,NA,3,male,33,0,0,A./5. 3338,8.05,-1,S,test,Nancarrow,Mr,A,5,0,1,28
+992,NA,1,female,43,1,0,11778,55.4417,C,C,test,Stengel,Mrs,,11778,1,2,2
+993,NA,2,male,27,1,0,228414,26,-1,S,test,Weisz,Mr,,228414,1,2,2
+994,NA,3,male,-1,0,0,365235,7.75,-1,Q,test,Foley,Mr,,365235,0,2,1
+995,NA,3,male,26,0,0,347070,7.775,-1,S,test,Johansson Palmquist,Mr,,347070,0,1,1
+996,NA,3,female,16,1,1,2625,8.5167,-1,C,test,Thomas,Mrs,,2625,1,3,2
+997,NA,3,male,28,0,0,C 4001,22.525,-1,S,test,Holthen,Mr,C,4001,0,1,3
+998,NA,3,male,21,0,0,330920,7.8208,-1,Q,test,Buckley,Mr,,330920,0,2,1
+999,NA,3,male,-1,0,0,383162,7.75,-1,Q,test,Ryan,Mr,,383162,0,2,1
+1000,NA,3,male,-1,0,0,3410,8.7125,-1,S,test,Willer,Mr,,3410,0,1,1
+1001,NA,2,male,18.5,0,0,248734,13,F,S,test,Swane,Mr,,248734,0,1,1
+1002,NA,2,male,41,0,0,237734,15.0458,-1,C,test,Stanton,Mr,,237734,0,1,1
+1003,NA,3,female,-1,0,0,330968,7.7792,-1,Q,test,Shine,Miss,,330968,0,1,1
+1004,NA,1,female,36,0,0,PC 17531,31.6792,A,C,test,Evans,Miss,PC,17531,0,1,1
+1005,NA,3,female,18.5,0,0,329944,7.2833,-1,Q,test,Buckley,Miss,,329944,0,2,1
+1006,NA,1,female,63,1,0,PC 17483,221.7792,C,S,test,Straus,Mrs,PC,17483,1,2,4
+1007,NA,3,male,18,1,0,2680,14.4542,-1,C,test,Chronopoulos,Mr,,2680,1,2,2
+1008,NA,3,male,-1,0,0,2681,6.4375,-1,C,test,Thomas,Mr,,2681,0,2,1
+1009,NA,3,female,1,1,1,PP 9549,16.7,G,S,test,Sandstrom,Miss,PP,9549,1,3,3
+1010,NA,1,male,36,0,0,13050,75.2417,C,C,test,Beattie,Mr,,13050,0,1,2
+1011,NA,2,female,29,1,0,SC/AH 29037,26,-1,S,test,Chapman,Mrs,SCAH,29037,1,2,2
+1012,NA,2,female,12,0,0,C.A. 33595,15.75,-1,S,test,Watt,Miss,CA,33595,0,2,2
+1013,NA,3,male,-1,1,0,367227,7.75,-1,Q,test,Kiernan,Mr,,367227,1,2,1
+1014,NA,1,female,35,1,0,13236,57.75,C,C,test,Schabert,Mrs,,13236,1,1,2
+1015,NA,3,male,28,0,0,392095,7.25,-1,S,test,Carver,Mr,,392095,0,1,1
+1016,NA,3,male,-1,0,0,368783,7.75,-1,Q,test,Kennedy,Mr,,368783,0,1,1
+1017,NA,3,female,17,0,1,371362,16.1,-1,S,test,Cribb,Miss,,371362,1,2,2
+1018,NA,3,male,22,0,0,350045,7.7958,-1,S,test,Brobeck,Mr,,350045,0,1,1
+1019,NA,3,female,-1,2,0,367226,23.25,-1,Q,test,McCoy,Miss,,367226,1,3,3
+1020,NA,2,male,42,0,0,211535,13,-1,S,test,Bowenur,Mr,,211535,0,1,1
+1021,NA,3,male,24,0,0,342441,8.05,-1,S,test,Petersen,Mr,,342441,0,1,1
+1022,NA,3,male,32,0,0,STON/OQ. 369943,8.05,-1,S,test,Spinner,Mr,STONOQ,369943,0,1,1
+1023,NA,1,male,53,0,0,113780,28.5,C,C,test,Gracie,Col,,113780,0,1,1
+1024,NA,3,female,-1,0,4,4133,25.4667,-1,S,test,Lefebre,Mrs,,4133,1,5,5
+1025,NA,3,male,-1,1,0,2621,6.4375,-1,C,test,Thomas,Mr,,2621,1,3,1
+1026,NA,3,male,43,0,0,349226,7.8958,-1,S,test,Dintcheff,Mr,,349226,0,1,1
+1027,NA,3,male,24,0,0,350409,7.8542,-1,S,test,Carlsson,Mr,,350409,0,2,1
+1028,NA,3,male,26.5,0,0,2656,7.225,-1,C,test,Zakarian,Mr,,2656,0,2,1
+1029,NA,2,male,26,0,0,248659,13,-1,S,test,Schmidt,Mr,,248659,0,1,1
+1030,NA,3,female,23,0,0,SOTON/OQ 392083,8.05,-1,S,test,Drapkin,Miss,SOTONOQ,392083,0,1,1
+1031,NA,3,male,40,1,6,CA 2144,46.9,-1,S,test,Goodwin,Mr,CA,2144,1,8,8
+1032,NA,3,female,10,5,2,CA 2144,46.9,-1,S,test,Goodwin,Miss,CA,2144,1,8,8
+1033,NA,1,female,33,0,0,113781,151.55,-1,S,test,Daniels,Miss,,113781,0,1,6
+1034,NA,1,male,61,1,3,PC 17608,262.375,B,C,test,Ryerson,Mr,PC,17608,1,5,7
+1035,NA,2,male,28,0,0,244358,26,-1,S,test,Beauchamp,Mr,,244358,0,1,2
+1036,NA,1,male,42,0,0,17475,26.55,-1,S,test,Lindeberg-Lind,Mr,,17475,0,1,2
+1037,NA,3,male,31,3,0,345763,18,-1,S,test,Vander Planke,Mr,,345763,1,4,2
+1038,NA,1,male,-1,0,0,17463,51.8625,E,S,test,Hilliard,Mr,,17463,0,1,2
+1039,NA,3,male,22,0,0,SC/A4 23568,8.05,-1,S,test,Davies,Mr,SCA,4,0,1,13
+1040,NA,1,male,-1,0,0,113791,26.55,-1,S,test,Crafton,Mr,,113791,0,1,1
+1041,NA,2,male,30,1,1,250651,26,-1,S,test,Lahtinen,Rev,,250651,1,2,2
+1042,NA,1,female,23,0,1,11767,83.1583,C,C,test,Earnshaw,Mrs,,11767,1,1,3
+1043,NA,3,male,-1,0,0,349255,7.8958,-1,C,test,Matinoff,Mr,,349255,0,1,1
+1044,NA,3,male,60.5,0,0,3701,7.8958,-1,S,test,Storey,Mr,,3701,0,1,1
+1045,NA,3,female,36,0,2,350405,12.1833,-1,S,test,Klasen,Mrs,,350405,1,3,2
+1046,NA,3,male,13,4,2,347077,31.3875,-1,S,test,Asplund,Master,,347077,1,7,7
+1047,NA,3,male,24,0,0,S.O./P.P. 752,7.55,-1,S,test,Duquemin,Mr,SOPP,752,0,1,2
+1048,NA,1,female,29,0,0,PC 17483,221.7792,C,S,test,Bird,Miss,PC,17483,0,1,4
+1049,NA,3,female,23,0,0,347469,7.8542,-1,S,test,Lundin,Miss,,347469,0,1,1
+1050,NA,1,male,42,0,0,110489,26.55,D,S,test,Borebank,Mr,,110489,0,1,1
+1051,NA,3,female,26,0,2,SOTON/O.Q. 3101315,13.775,-1,S,test,Peacock,Mrs,SOTONOQ,3101315,1,3,3
+1052,NA,3,female,-1,0,0,335432,7.7333,-1,Q,test,Smyth,Miss,,335432,0,1,1
+1053,NA,3,male,7,1,1,2650,15.2458,-1,C,test,Touma,Master,,2650,1,3,3
+1054,NA,2,female,26,0,0,220844,13.5,-1,S,test,Wright,Miss,,220844,0,1,1
+1055,NA,3,male,-1,0,0,343271,7,-1,S,test,Pearce,Mr,,343271,0,1,1
+1056,NA,2,male,41,0,0,237393,13,-1,S,test,Peruschitz,Rev,,237393,0,1,1
+1057,NA,3,female,26,1,1,315153,22.025,-1,S,test,Kink-Heilmann,Mrs,,315153,1,3,3
+1058,NA,1,male,48,0,0,PC 17591,50.4958,B,C,test,Brandeis,Mr,PC,17591,0,1,1
+1059,NA,3,male,18,2,2,W./C. 6608,34.375,-1,S,test,Ford,Mr,WC,6608,1,5,5
+1060,NA,1,female,-1,0,0,17770,27.7208,-1,C,test,Cassebeer,Mrs,,17770,0,1,1
+1061,NA,3,female,22,0,0,7548,8.9625,-1,S,test,Hellstrom,Miss,,7548,0,1,1
+1062,NA,3,male,-1,0,0,S.O./P.P. 251,7.55,-1,S,test,Lithman,Mr,SOPP,251,0,1,1
+1063,NA,3,male,27,0,0,2670,7.225,-1,C,test,Zakarian,Mr,,2670,0,2,1
+1064,NA,3,male,23,1,0,347072,13.9,-1,S,test,Dyker,Mr,,347072,1,2,2
+1065,NA,3,male,-1,0,0,2673,7.2292,-1,C,test,Torfa,Mr,,2673,0,1,4
+1066,NA,3,male,40,1,5,347077,31.3875,-1,S,test,Asplund,Mr,,347077,1,7,7
+1067,NA,2,female,15,0,2,29750,39,-1,S,test,Brown,Miss,,29750,1,3,3
+1068,NA,2,female,20,0,0,C.A. 33112,36.75,-1,S,test,Sincock,Miss,CA,33112,0,1,4
+1069,NA,1,male,54,1,0,11778,55.4417,C,C,test,Stengel,Mr,,11778,1,2,2
+1070,NA,2,female,36,0,3,230136,39,F,S,test,Becker,Mrs,,230136,1,4,4
+1071,NA,1,female,64,0,2,PC 17756,83.1583,E,C,test,Compton,Mrs,PC,17756,1,3,3
+1072,NA,2,male,30,0,0,233478,13,-1,S,test,McCrie,Mr,,233478,0,1,1
+1073,NA,1,male,37,1,1,PC 17756,83.1583,E,C,test,Compton,Mr,PC,17756,1,3,3
+1074,NA,1,female,18,1,0,113773,53.1,D,S,test,Marvin,Mrs,,113773,1,2,2
+1075,NA,3,male,-1,0,0,7935,7.75,-1,Q,test,Lane,Mr,,7935,0,1,1
+1076,NA,1,female,27,1,1,PC 17558,247.5208,B,C,test,Douglas,Mrs,PC,17558,1,3,3
+1077,NA,2,male,40,0,0,239059,16,-1,S,test,Maybery,Mr,,239059,0,1,1
+1078,NA,2,female,21,0,1,S.O./P.P. 2,21,-1,S,test,Phillips,Miss,SOPP,2,1,2,27
+1079,NA,3,male,17,2,0,A/4 48873,8.05,-1,S,test,Davies,Mr,A,4,1,3,13
+1080,NA,3,female,-1,8,2,CA. 2343,69.55,-1,S,test,Sage,Miss,CA,2343,1,11,11
+1081,NA,2,male,40,0,0,28221,13,-1,S,test,Veal,Mr,,28221,0,1,1
+1082,NA,2,male,34,1,0,226875,26,-1,S,test,Angle,Mr,,226875,1,2,2
+1083,NA,1,male,-1,0,0,111163,26,-1,S,test,Salomon,Mr,,111163,0,1,1
+1084,NA,3,male,11.5,1,1,A/5. 851,14.5,-1,S,test,van Billiard,Master,A,5,1,3,28
+1085,NA,2,male,61,0,0,235509,12.35,-1,Q,test,Lingane,Mr,,235509,0,1,1
+1086,NA,2,male,8,0,2,28220,32.5,-1,S,test,Drew,Master,,28220,1,3,3
+1087,NA,3,male,33,0,0,347465,7.8542,-1,S,test,Karlsson,Mr,,347465,0,3,1
+1088,NA,1,male,6,0,2,16966,134.5,E,C,test,Spedden,Master,,16966,1,3,5
+1089,NA,3,female,18,0,0,347066,7.775,-1,S,test,Nilsson,Miss,,347066,0,3,1
+1090,NA,2,male,23,0,0,C.A. 31030,10.5,-1,S,test,Baimbrigge,Mr,CA,31030,0,1,1
+1091,NA,3,female,-1,0,0,65305,8.1125,-1,S,test,Rasmussen,Mrs,,65305,0,1,1
+1092,NA,3,female,-1,0,0,36568,15.5,-1,Q,test,Murphy,Miss,,36568,0,1,2
+1093,NA,3,male,0.33,0,2,347080,14.4,-1,S,test,Danbom,Master,,347080,1,3,3
+1094,NA,1,male,47,1,0,PC 17757,227.525,C,C,test,Astor,Col,PC,17757,1,2,5
+1095,NA,2,female,8,1,1,26360,26,-1,S,test,Quick,Miss,,26360,1,3,3
+1096,NA,2,male,25,0,0,C.A. 34050,10.5,-1,S,test,Andrew,Mr,CA,34050,0,2,1
+1097,NA,1,male,-1,0,0,F.C. 12998,25.7417,-1,C,test,Omont,Mr,FC,12998,0,1,1
+1098,NA,3,female,35,0,0,9232,7.75,-1,Q,test,McGowan,Miss,,9232,0,2,1
+1099,NA,2,male,24,0,0,28034,10.5,-1,S,test,Collett,Mr,,28034,0,1,1
+1100,NA,1,female,33,0,0,PC 17613,27.7208,A,C,test,Rosenbaum,Miss,PC,17613,0,1,1
+1101,NA,3,male,25,0,0,349250,7.8958,-1,S,test,Delalic,Mr,,349250,0,1,1
+1102,NA,3,male,32,0,0,C 4001,22.525,-1,S,test,Andersen,Mr,C,4001,0,1,3
+1103,NA,3,male,-1,0,0,SOTON/O.Q. 3101308,7.05,-1,S,test,Finoli,Mr,SOTONOQ,3101308,0,1,1
+1104,NA,2,male,17,0,0,S.O.C. 14879,73.5,-1,S,test,Deacon,Mr,SOC,14879,0,1,7
+1105,NA,2,female,60,1,0,24065,26,-1,S,test,Howard,Mrs,,24065,1,2,2
+1106,NA,3,female,38,4,2,347091,7.775,-1,S,test,Andersson,Miss,,347091,1,9,1
+1107,NA,1,male,42,0,0,113038,42.5,B,S,test,Head,Mr,,113038,0,1,1
+1108,NA,3,female,-1,0,0,330924,7.8792,-1,Q,test,Mahon,Miss,,330924,0,2,1
+1109,NA,1,male,57,1,1,36928,164.8667,-1,S,test,Wick,Mr,,36928,1,3,4
+1110,NA,1,female,50,1,1,113503,211.5,C,C,test,Widener,Mrs,,113503,1,3,5
+1111,NA,3,male,-1,0,0,32302,8.05,-1,S,test,Thomson,Mr,,32302,0,1,1
+1112,NA,2,female,30,1,0,SC/PARIS 2148,13.8583,-1,C,test,Duran y More,Miss,SCPARIS,2148,1,2,1
+1113,NA,3,male,21,0,0,342684,8.05,-1,S,test,Reynolds,Mr,,342684,0,1,1
+1114,NA,2,female,22,0,0,W./C. 14266,10.5,F,S,test,Cook,Mrs,WC,14266,0,1,1
+1115,NA,3,male,21,0,0,350053,7.7958,-1,S,test,Karlsson,Mr,,350053,0,3,1
+1116,NA,1,female,53,0,0,PC 17606,27.4458,-1,C,test,Candee,Mrs,PC,17606,0,1,1
+1117,NA,3,female,-1,0,2,2661,15.2458,-1,C,test,Moubarek,Mrs,,2661,1,3,3
+1118,NA,3,male,23,0,0,350054,7.7958,-1,S,test,Asplund,Mr,,350054,0,1,1
+1119,NA,3,female,-1,0,0,370368,7.75,-1,Q,test,McNeill,Miss,,370368,0,1,1
+1120,NA,3,male,40.5,0,0,C.A. 6212,15.1,-1,S,test,Everett,Mr,CA,6212,0,1,2
+1121,NA,2,male,36,0,0,242963,13,-1,S,test,Hocking,Mr,,242963,0,1,1
+1122,NA,2,male,14,0,0,220845,65,-1,S,test,Sweet,Mr,,220845,0,1,5
+1123,NA,1,female,21,0,0,113795,26.55,-1,S,test,Willard,Miss,,113795,0,1,1
+1124,NA,3,male,21,1,0,3101266,6.4958,-1,S,test,Wiklund,Mr,,3101266,1,2,1
+1125,NA,3,male,-1,0,0,330971,7.8792,-1,Q,test,Linehan,Mr,,330971,0,1,1
+1126,NA,1,male,39,1,0,PC 17599,71.2833,C,C,test,Cumings,Mr,PC,17599,1,2,2
+1127,NA,3,male,20,0,0,350416,7.8542,-1,S,test,Vendel,Mr,,350416,0,1,1
+1128,NA,1,male,64,1,0,110813,75.25,D,C,test,Warren,Mr,,110813,1,2,2
+1129,NA,3,male,20,0,0,2679,7.225,-1,C,test,Baccos,Mr,,2679,0,1,1
+1130,NA,2,female,18,1,1,250650,13,-1,S,test,Hiltunen,Miss,,250650,1,1,1
+1131,NA,1,female,48,1,0,PC 17761,106.425,C,C,test,Douglas,Mrs,PC,17761,1,3,3
+1132,NA,1,female,55,0,0,112377,27.7208,-1,C,test,Lindstrom,Mrs,,112377,0,1,1
+1133,NA,2,female,45,0,2,237789,30,-1,S,test,Christy,Mrs,,237789,1,2,2
+1134,NA,1,male,45,1,1,16966,134.5,E,C,test,Spedden,Mr,,16966,1,3,5
+1135,NA,3,male,-1,0,0,3470,7.8875,-1,S,test,Hyman,Mr,,3470,0,1,1
+1136,NA,3,male,-1,1,2,W./C. 6607,23.45,-1,S,test,Johnston,Master,WC,6607,1,4,4
+1137,NA,1,male,41,1,0,17464,51.8625,D,S,test,Kenyon,Mr,,17464,1,2,2
+1138,NA,2,female,22,0,0,F.C.C. 13534,21,-1,S,test,Karnes,Mrs,FCC,13534,0,1,2
+1139,NA,2,male,42,1,1,28220,32.5,-1,S,test,Drew,Mr,,28220,1,3,3
+1140,NA,2,female,29,1,0,26707,26,-1,S,test,Hold,Mrs,,26707,1,2,2
+1141,NA,3,female,-1,1,0,2660,14.4542,-1,C,test,Khalil,Mrs,,2660,1,2,2
+1142,NA,2,female,0.92,1,2,C.A. 34651,27.75,-1,S,test,West,Miss,CA,34651,1,4,4
+1143,NA,3,male,20,0,0,SOTON/O2 3101284,7.925,-1,S,test,Abrahamsson,Mr,SOTONO,2,0,1,27
+1144,NA,1,male,27,1,0,13508,136.7792,C,C,test,Clark,Mr,,13508,1,2,2
+1145,NA,3,male,24,0,0,7266,9.325,-1,S,test,Salander,Mr,,7266,0,1,1
+1146,NA,3,male,32.5,0,0,345775,9.5,-1,S,test,Wenzel,Mr,,345775,0,1,1
+1147,NA,3,male,-1,0,0,C.A. 42795,7.55,-1,S,test,MacKay,Mr,CA,42795,0,1,1
+1148,NA,3,male,-1,0,0,AQ/4 3130,7.75,-1,Q,test,Mahon,Mr,AQ,4,0,2,13
+1149,NA,3,male,28,0,0,363611,8.05,-1,S,test,Niklasson,Mr,,363611,0,1,1
+1150,NA,2,female,19,0,0,28404,13,-1,S,test,Bentham,Miss,,28404,0,1,1
+1151,NA,3,male,21,0,0,345501,7.775,-1,S,test,Midtsjo,Mr,,345501,0,1,1
+1152,NA,3,male,36.5,1,0,345572,17.4,-1,S,test,de Messemaeker,Mr,,345572,1,2,2
+1153,NA,3,male,21,0,0,350410,7.8542,-1,S,test,Nilsson,Mr,,350410,0,3,1
+1154,NA,2,female,29,0,2,29103,23,-1,S,test,Wells,Mrs,,29103,1,3,3
+1155,NA,3,female,1,1,1,350405,12.1833,-1,S,test,Klasen,Miss,,350405,1,3,2
+1156,NA,2,male,30,0,0,C.A. 34644,12.7375,-1,C,test,Portaluppi,Mr,CA,34644,0,1,1
+1157,NA,3,male,-1,0,0,349235,7.8958,-1,S,test,Lyntakoff,Mr,,349235,0,1,1
+1158,NA,1,male,-1,0,0,112051,0,-1,S,test,Chisholm,Mr,,112051,0,1,1
+1159,NA,3,male,-1,0,0,C.A. 49867,7.55,-1,S,test,Warren,Mr,CA,49867,0,1,1
+1160,NA,3,female,-1,0,0,A. 2. 39186,8.05,-1,S,test,Howard,Miss,A,2,0,1,27
+1161,NA,3,male,17,0,0,315095,8.6625,-1,S,test,Pokrnic,Mr,,315095,0,2,1
+1162,NA,1,male,46,0,0,13050,75.2417,C,C,test,McCaffry,Mr,,13050,0,1,2
+1163,NA,3,male,-1,0,0,368573,7.75,-1,Q,test,Fox,Mr,,368573,0,1,1
+1164,NA,1,female,26,1,0,13508,136.7792,C,C,test,Clark,Mrs,,13508,1,2,2
+1165,NA,3,female,-1,1,0,370371,15.5,-1,Q,test,Lennon,Miss,,370371,1,2,2
+1166,NA,3,male,-1,0,0,2676,7.225,-1,C,test,Saade,Mr,,2676,0,1,1
+1167,NA,2,female,20,1,0,236853,26,-1,S,test,Bryhl,Miss,,236853,1,2,2
+1168,NA,2,male,28,0,0,SC 14888,10.5,-1,S,test,Parker,Mr,SC,14888,0,1,1
+1169,NA,2,male,40,1,0,2926,26,-1,S,test,Faunthorpe,Mr,,2926,1,2,2
+1170,NA,2,male,30,1,0,CA 31352,21,-1,S,test,Ware,Mr,CA,31352,1,2,2
+1171,NA,2,male,22,0,0,W./C. 14260,10.5,-1,S,test,Oxenham,Mr,WC,14260,0,1,1
+1172,NA,3,female,23,0,0,315085,8.6625,-1,S,test,Oreskovic,Miss,,315085,0,3,1
+1173,NA,3,male,0.75,1,1,SOTON/O.Q. 3101315,13.775,-1,S,test,Peacock,Master,SOTONOQ,3101315,1,3,3
+1174,NA,3,female,-1,0,0,364859,7.75,-1,Q,test,Fleming,Miss,,364859,0,1,1
+1175,NA,3,female,9,1,1,2650,15.2458,-1,C,test,Touma,Miss,,2650,1,3,3
+1176,NA,3,female,2,1,1,370129,20.2125,-1,S,test,Rosblom,Miss,,370129,1,3,3
+1177,NA,3,male,36,0,0,A/5 21175,7.25,-1,S,test,Dennis,Mr,A,5,0,2,28
+1178,NA,3,male,-1,0,0,SOTON/O.Q. 3101314,7.25,-1,S,test,Franklin,Mr,SOTONOQ,3101314,0,1,1
+1179,NA,1,male,24,1,0,21228,82.2667,B,S,test,Snyder,Mr,,21228,1,2,2
+1180,NA,3,male,-1,0,0,2655,7.2292,F,C,test,Mardirosian,Mr,,2655,0,1,1
+1181,NA,3,male,-1,0,0,A/5 1478,8.05,-1,S,test,Ford,Mr,A,5,0,1,28
+1182,NA,1,male,-1,0,0,PC 17607,39.6,-1,S,test,Rheims,Mr,PC,17607,0,1,1
+1183,NA,3,female,30,0,0,382650,6.95,-1,Q,test,Daly,Miss,,382650,0,2,1
+1184,NA,3,male,-1,0,0,2652,7.2292,-1,C,test,Nasr,Mr,,2652,0,1,1
+1185,NA,1,male,53,1,1,33638,81.8583,A,S,test,Dodge,Dr,,33638,1,3,3
+1186,NA,3,male,36,0,0,345771,9.5,-1,S,test,Wittevrongel,Mr,,345771,0,1,1
+1187,NA,3,male,26,0,0,349202,7.8958,-1,S,test,Angheloff,Mr,,349202,0,1,1
+1188,NA,2,female,1,1,2,SC/Paris 2123,41.5792,-1,C,test,Laroche,Miss,SCParis,2123,1,4,4
+1189,NA,3,male,-1,2,0,2662,21.6792,-1,C,test,Samaan,Mr,,2662,1,3,3
+1190,NA,1,male,30,0,0,113801,45.5,-1,S,test,Loring,Mr,,113801,0,1,1
+1191,NA,3,male,29,0,0,347467,7.8542,-1,S,test,Johansson,Mr,,347467,0,4,1
+1192,NA,3,male,32,0,0,347079,7.775,-1,S,test,Olsson,Mr,,347079,0,3,1
+1193,NA,2,male,-1,0,0,237735,15.0458,D,C,test,Malachard,Mr,,237735,0,1,1
+1194,NA,2,male,43,0,1,S.O./P.P. 2,21,-1,S,test,Phillips,Mr,SOPP,2,1,2,27
+1195,NA,3,male,24,0,0,315092,8.6625,-1,S,test,Pokrnic,Mr,,315092,0,2,1
+1196,NA,3,female,-1,0,0,383123,7.75,-1,Q,test,McCarthy,Miss,,383123,0,1,1
+1197,NA,1,female,64,1,1,112901,26.55,B,S,test,Crosby,Mrs,,112901,1,3,1
+1198,NA,1,male,30,1,2,113781,151.55,C,S,test,Allison,Mr,,113781,1,4,6
+1199,NA,3,male,0.83,0,1,392091,9.35,-1,S,test,Aks,Master,,392091,1,2,2
+1200,NA,1,male,55,1,1,12749,93.5,B,S,test,Hays,Mr,,12749,1,2,4
+1201,NA,3,female,45,1,0,350026,14.1083,-1,S,test,Hansen,Mrs,,350026,1,3,2
+1202,NA,3,male,18,0,0,315091,8.6625,-1,S,test,Cacic,Mr,,315091,0,4,1
+1203,NA,3,male,22,0,0,2658,7.225,-1,C,test,Vartanian,Mr,,2658,0,1,1
+1204,NA,3,male,-1,0,0,LP 1588,7.575,-1,S,test,Sadowitz,Mr,LP,1588,0,1,1
+1205,NA,3,female,37,0,0,368364,7.75,-1,Q,test,Carr,Miss,,368364,0,2,1
+1206,NA,1,female,55,0,0,PC 17760,135.6333,C,C,test,White,Mrs,PC,17760,0,1,4
+1207,NA,3,female,17,0,0,AQ/3. 30631,7.7333,-1,Q,test,Hagardon,Miss,AQ,3,0,1,4
+1208,NA,1,male,57,1,0,PC 17569,146.5208,B,C,test,Spencer,Mr,PC,17569,1,2,3
+1209,NA,2,male,19,0,0,28004,10.5,-1,S,test,Rogers,Mr,,28004,0,1,1
+1210,NA,3,male,27,0,0,350408,7.8542,-1,S,test,Jonsson,Mr,,350408,0,2,1
+1211,NA,2,male,22,2,0,C.A. 31029,31.5,-1,S,test,Jefferys,Mr,CA,31029,1,2,3
+1212,NA,3,male,26,0,0,347075,7.775,-1,S,test,Andersson,Mr,,347075,0,2,1
+1213,NA,3,male,25,0,0,2654,7.2292,F,C,test,Krekorian,Mr,,2654,0,1,1
+1214,NA,2,male,26,0,0,244368,13,F,S,test,Nesson,Mr,,244368,0,1,1
+1215,NA,1,male,33,0,0,113790,26.55,-1,S,test,Rowe,Mr,,113790,0,1,1
+1216,NA,1,female,39,0,0,24160,211.3375,-1,S,test,Kreuchen,Miss,,24160,0,1,4
+1217,NA,3,male,23,0,0,SOTON/O.Q. 3101309,7.05,-1,S,test,Assam,Mr,SOTONOQ,3101309,0,1,1
+1218,NA,2,female,12,2,1,230136,39,F,S,test,Becker,Miss,,230136,1,4,4
+1219,NA,1,male,46,0,0,PC 17585,79.2,-1,C,test,Rosenshine,Mr,PC,17585,0,1,2
+1220,NA,2,male,29,1,0,2003,26,-1,S,test,Clarke,Mr,,2003,1,2,2
+1221,NA,2,male,21,0,0,236854,13,-1,S,test,Enander,Mr,,236854,0,1,1
+1222,NA,2,female,48,0,2,C.A. 33112,36.75,-1,S,test,Davies,Mrs,CA,33112,1,2,4
+1223,NA,1,male,39,0,0,PC 17580,29.7,A,C,test,Dulles,Mr,PC,17580,0,1,1
+1224,NA,3,male,-1,0,0,2684,7.225,-1,C,test,Thomas,Mr,,2684,0,2,1
+1225,NA,3,female,19,1,1,2653,15.7417,-1,C,test,Nakid,Mrs,,2653,1,3,3
+1226,NA,3,male,27,0,0,349229,7.8958,-1,S,test,Cor,Mr,,349229,0,3,1
+1227,NA,1,male,30,0,0,110469,26,C,S,test,Maguire,Mr,,110469,0,1,1
+1228,NA,2,male,32,0,0,244360,13,-1,S,test,de Brito,Mr,,244360,0,1,1
+1229,NA,3,male,39,0,2,2675,7.2292,-1,C,test,Elias,Mr,,2675,1,3,1
+1230,NA,2,male,25,0,0,C.A. 31029,31.5,-1,S,test,Denbury,Mr,CA,31029,0,1,3
+1231,NA,3,male,-1,0,0,2622,7.2292,-1,C,test,Betros,Master,,2622,0,2,1
+1232,NA,2,male,18,0,0,C.A. 15185,10.5,-1,S,test,Fillbrook,Mr,CA,15185,0,1,1
+1233,NA,3,male,32,0,0,350403,7.5792,-1,S,test,Lundstrom,Mr,,350403,0,1,1
+1234,NA,3,male,-1,1,9,CA. 2343,69.55,-1,S,test,Sage,Mr,CA,2343,1,11,11
+1235,NA,1,female,58,0,1,PC 17755,512.3292,B,C,test,Cardeza,Mrs,PC,17755,1,2,4
+1236,NA,3,male,-1,1,1,A/5. 851,14.5,-1,S,test,van Billiard,Master,A,5,1,3,28
+1237,NA,3,female,16,0,0,348125,7.65,-1,S,test,Abelseth,Miss,,348125,0,2,1
+1238,NA,2,male,26,0,0,237670,13,-1,S,test,Botsford,Mr,,237670,0,1,1
+1239,NA,3,female,38,0,0,2688,7.2292,-1,C,test,Whabee,Mrs,,2688,0,1,1
+1240,NA,2,male,24,0,0,248726,13.5,-1,S,test,Giles,Mr,,248726,0,1,1
+1241,NA,2,female,31,0,0,F.C.C. 13528,21,-1,S,test,Walcroft,Miss,FCC,13528,0,1,2
+1242,NA,1,female,45,0,1,PC 17759,63.3583,D,C,test,Greenfield,Mrs,PC,17759,1,2,2
+1243,NA,2,male,25,0,0,F.C.C. 13540,10.5,-1,S,test,Stokes,Mr,FCC,13540,0,1,1
+1244,NA,2,male,18,0,0,S.O.C. 14879,73.5,-1,S,test,Dibden,Mr,SOC,14879,0,1,7
+1245,NA,2,male,49,1,2,220845,65,-1,S,test,Herman,Mr,,220845,1,4,5
+1246,NA,3,female,0.17,1,2,C.A. 2315,20.575,-1,S,test,Dean,Miss,CA,2315,1,4,4
+1247,NA,1,male,50,0,0,113044,26,E,S,test,Julian,Mr,,113044,0,1,1
+1248,NA,1,female,59,2,0,11769,51.4792,C,S,test,Brown,Mrs,,11769,1,1,2
+1249,NA,3,male,-1,0,0,1222,7.8792,-1,S,test,Lockyer,Mr,,1222,0,1,1
+1250,NA,3,male,-1,0,0,368402,7.75,-1,Q,test,O'Keefe,Mr,,368402,0,1,1
+1251,NA,3,female,30,1,0,349910,15.55,-1,S,test,Lindell,Mrs,,349910,1,2,2
+1252,NA,3,male,14.5,8,2,CA. 2343,69.55,-1,S,test,Sage,Master,CA,2343,1,11,11
+1253,NA,2,female,24,1,1,S.C./PARIS 2079,37.0042,-1,C,test,Mallet,Mrs,SCPARIS,2079,1,3,3
+1254,NA,2,female,31,0,0,CA 31352,21,-1,S,test,Ware,Mrs,CA,31352,0,1,2
+1255,NA,3,male,27,0,0,315083,8.6625,-1,S,test,Strilic,Mr,,315083,0,1,1
+1256,NA,1,female,25,1,0,11765,55.4417,E,C,test,Harder,Mrs,,11765,1,2,2
+1257,NA,3,female,-1,1,9,CA. 2343,69.55,-1,S,test,Sage,Mrs,CA,2343,1,11,11
+1258,NA,3,male,-1,1,0,2689,14.4583,-1,C,test,Caram,Mr,,2689,1,2,2
+1259,NA,3,female,22,0,0,3101295,39.6875,-1,S,test,Riihivouri,Miss,,3101295,0,1,7
+1260,NA,1,female,45,0,1,112378,59.4,-1,C,test,Gibson,Mrs,,112378,1,2,2
+1261,NA,2,male,29,0,0,SC/PARIS 2147,13.8583,-1,C,test,Pallas y Castello,Mr,SCPARIS,2147,0,1,1
+1262,NA,2,male,21,1,0,28133,11.5,-1,S,test,Giles,Mr,,28133,1,2,1
+1263,NA,1,female,31,0,0,16966,134.5,E,C,test,Wilson,Miss,,16966,0,1,5
+1264,NA,1,male,49,0,0,112058,0,B,S,test,Ismay,Mr,,112058,0,1,2
+1265,NA,2,male,44,0,0,248746,13,-1,S,test,Harbeck,Mr,,248746,0,1,1
+1266,NA,1,female,54,1,1,33638,81.8583,A,S,test,Dodge,Mrs,,33638,1,3,3
+1267,NA,1,female,45,0,0,PC 17608,262.375,-1,C,test,Bowen,Miss,PC,17608,0,1,7
+1268,NA,3,female,22,2,0,315152,8.6625,-1,S,test,Kink,Miss,,315152,1,2,1
+1269,NA,2,male,21,0,0,29107,11.5,-1,S,test,Cotterill,Mr,,29107,0,1,1
+1270,NA,1,male,55,0,0,680,50,C,S,test,Hipkins,Mr,,680,0,1,1
+1271,NA,3,male,5,4,2,347077,31.3875,-1,S,test,Asplund,Master,,347077,1,7,7
+1272,NA,3,male,-1,0,0,366713,7.75,-1,Q,test,O'Connor,Mr,,366713,0,2,1
+1273,NA,3,male,26,0,0,330910,7.8792,-1,Q,test,Foley,Mr,,330910,0,2,1
+1274,NA,3,female,-1,0,0,364498,14.5,-1,S,test,Risien,Mrs,,364498,0,2,2
+1275,NA,3,female,19,1,0,376566,16.1,-1,S,test,McNamee,Mrs,,376566,1,2,2
+1276,NA,2,male,-1,0,0,SC/PARIS 2159,12.875,-1,S,test,Wheeler,Mr,SCPARIS,2159,0,1,1
+1277,NA,2,female,24,1,2,220845,65,-1,S,test,Herman,Miss,,220845,1,4,5
+1278,NA,3,male,24,0,0,349911,7.775,-1,S,test,Aronsson,Mr,,349911,0,1,1
+1279,NA,2,male,57,0,0,244346,13,-1,S,test,Ashby,Mr,,244346,0,1,1
+1280,NA,3,male,21,0,0,364858,7.75,-1,Q,test,Canavan,Mr,,364858,0,2,1
+1281,NA,3,male,6,3,1,349909,21.075,-1,S,test,Palsson,Master,,349909,1,5,5
+1282,NA,1,male,23,0,0,12749,93.5,B,S,test,Payne,Mr,,12749,0,1,4
+1283,NA,1,female,51,0,1,PC 17592,39.4,D,S,test,Lines,Mrs,PC,17592,1,2,2
+1284,NA,3,male,13,0,2,C.A. 2673,20.25,-1,S,test,Abbott,Master,CA,2673,1,3,4
+1285,NA,2,male,47,0,0,C.A. 30769,10.5,-1,S,test,Gilbert,Mr,CA,30769,0,1,1
+1286,NA,3,male,29,3,1,315153,22.025,-1,S,test,Kink-Heilmann,Mr,,315153,1,3,3
+1287,NA,1,female,18,1,0,13695,60,C,S,test,Smith,Mrs,,13695,1,2,2
+1288,NA,3,male,24,0,0,371109,7.25,-1,Q,test,Colbert,Mr,,371109,0,1,1
+1289,NA,1,female,48,1,1,13567,79.2,B,C,test,Frolicher-Stehli,Mrs,,13567,1,2,2
+1290,NA,3,male,22,0,0,347065,7.775,-1,S,test,Larsson-Rondberg,Mr,,347065,0,1,1
+1291,NA,3,male,31,0,0,21332,7.7333,-1,Q,test,Conlon,Mr,,21332,0,1,1
+1292,NA,1,female,30,0,0,36928,164.8667,C,S,test,Bonnell,Miss,,36928,0,2,4
+1293,NA,2,male,38,1,0,28664,21,-1,S,test,Gale,Mr,,28664,1,2,2
+1294,NA,1,female,22,0,1,112378,59.4,-1,C,test,Gibson,Miss,,112378,1,2,2
+1295,NA,1,male,17,0,0,113059,47.1,-1,S,test,Carrau,Mr,,113059,0,2,2
+1296,NA,1,male,43,1,0,17765,27.7208,D,C,test,Frauenthal,Mr,,17765,1,1,1
+1297,NA,2,male,20,0,0,SC/PARIS 2166,13.8625,D,C,test,Nourney,Mr,SCPARIS,2166,0,1,1
+1298,NA,2,male,23,1,0,28666,10.5,-1,S,test,Ware,Mr,,28666,1,2,1
+1299,NA,1,male,50,1,1,113503,211.5,C,C,test,Widener,Mr,,113503,1,3,5
+1300,NA,3,female,-1,0,0,334915,7.7208,-1,Q,test,Riordan,Miss,,334915,0,1,1
+1301,NA,3,female,3,1,1,SOTON/O.Q. 3101315,13.775,-1,S,test,Peacock,Miss,SOTONOQ,3101315,1,3,3
+1302,NA,3,female,-1,0,0,365237,7.75,-1,Q,test,Naughton,Miss,,365237,0,1,1
+1303,NA,1,female,37,1,0,19928,90,C,Q,test,Minahan,Mrs,,19928,1,3,3
+1304,NA,3,female,28,0,0,347086,7.775,-1,S,test,Henriksson,Miss,,347086,0,1,1
+1305,NA,3,male,-1,0,0,A.5. 3236,8.05,-1,S,test,Spector,Mr,A,5,0,1,28
+1306,NA,1,female,39,0,0,PC 17758,108.9,C,C,test,Oliva y Ocana,Dona,PC,17758,0,1,3
+1307,NA,3,male,38.5,0,0,SOTON/O.Q. 3101262,7.25,-1,S,test,Saether,Mr,SOTONOQ,3101262,0,1,1
+1308,NA,3,male,-1,0,0,359309,8.05,-1,S,test,Ware,Mr,,359309,0,1,1
+1309,NA,3,male,-1,1,1,2668,22.3583,-1,C,test,Peter,Master,,2668,1,3,3

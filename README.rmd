@@ -23,6 +23,7 @@ Below is a list of materials I've worked on / am working on. The goal is to beco
 * [Command Line](https://www.codecademy.com/learn/learn-the-command-line) (Codecademy)
 * [Git](https://www.codecademy.com/learn/learn-git) (Codecademy)
 * [SQL](http://www.w3schools.com/sql/) (w3schools)
+* [Sublime](https://sublimetutor.com/) (Sublime Tutor)
 
 ### Relevant Courses in Grad School (Stanford)
 
@@ -39,12 +40,24 @@ Below is a list of materials I've worked on / am working on. The goal is to beco
 
 ### Resources
 
-* [The Data Science Handbook](http://www.thedatasciencehandbook.com/) (Shan, Wang, Chen, Song)
-* [Data Scientist at Work](http://www.amazon.com/Data-Scientists-Work-Sebastian-Gutierrez/dp/1430265981) (Gutierrez)
+##### R
+
+* [R-bloggers](http://www.r-bloggers.com/)
 * [R Cheatsheets](https://www.rstudio.com/resources/cheatsheets/) (RStudio)
 * [R Graphics Cookbook](http://www.amazon.com/R-Graphics-Cookbook-Winston-Chang/dp/1449316956) (Chang)
 * [R Style Guide](https://google.github.io/styleguide/Rguide.xml) (Google)
-* [New York R Conference](http://www.rstats.nyc/2015)
+* [New York R Conference](http://www.rstats.nyc/)
+
+##### Data Science / Analytics
+
+* [The Data Science Handbook](http://www.thedatasciencehandbook.com/) (Shan, Wang, Chen, Song)
+* [Data Scientist at Work](http://www.amazon.com/Data-Scientists-Work-Sebastian-Gutierrez/dp/1430265981) (Gutierrez)
 * [Quora](https://www.quora.com/topic/Data-Science/faq)
 * [Airbnb's Data Blog](http://nerds.airbnb.com/data/)
 * [Segment's Analytics Academy](https://segment.com/academy/)
+
+### Productivity Tools
+
+* [Sublime Text](https://www.sublimetext.com/)
+* [Alfred](https://www.alfredapp.com/)
+* [Spectacle](https://www.spectacleapp.com/)
